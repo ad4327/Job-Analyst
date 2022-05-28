@@ -1,0 +1,2110 @@
+,0
+0,"Location:
+Sydney Olympic Park, New South Wales
+
+
+Job Type:
+Contract
+
+
+Specialisation:
+Commercial
+
+
+Salary:
+AU$700 - AU$800 per day
+
+
+Reference:
+CR/011187_1651038760
+
+
+Our client, a Sydney Olympic Park based organisation, is looking for a BI Reporting Analyst.
+About the role
+Create reports and dashboards
+Engage with stakeholder of different levels
+Create documentations and presentations
+Skills and experience
+3+ years' experience as a Reporting or Data Analyst
+Advanced BI knowledge
+Hands-on with PowerBI
+Very good communication and stakeholder management skills
+What's on offer
+12 months' engagement
+Hybrid work, with 1-2 days/week in the office
+Up to $800 inc super per day or fix-term salary
+What's next
+If you would like to be considered, please click the apply button or call Julia Leung on 02 8243 6808.
+Who we are
+FinXL IT Professional Services is an established, innovative Australian company, providing technology enabled business solutions and consulting services across a number of industries. These include; Government, Telecommunications, Commercial and Finance. We currently have more than 1200 consultants assisting our clients across Australia and are continuing to grow at a rapid pace. Through the delivery of services and implementation of new systems, processes and technology, we assist our clients to gain competitive advantage and reach new heights."
+1,"Macquarie Asset Management is currently building out their CRM capability, working across regions to consolidate their instances of Salesforce.com into a single global platform for distribution teams. To support this, a permanent feature team is being established to enable ongoing evolution of the platform.
+As a Salesforce Business Analyst, you would be primarily responsible for communication between our business users/management in the AsiaPac region and our Salesforce Feature Team. You would need to clearly articulate and solve the business issues using existing and potentially new features or capabilities within the Salesforce platform.
+Key to the role will be gaining a rapid understanding of the distribution model in Macquarie Asset Management, determining how best to add value to the client facing teams.
+As our Salesforce Business Analyst your key responsibilities will include:
+Acting as the main point of contacts for all AsiaPac users and stakeholders accessing or leveraging data from our Salesforce orgs.
+Creating process to best facilitate communication between business and feature team
+Assisting in the prioritization of wants/needs across the business/marketing in region.
+Working with sales managers, sales professionals, and consultants in developing appropriate capabilities, reports, and dashboards in support of Macquarie Asset Management client and management initiatives.
+identifying, capturing, and accurately documenting the business processes across multiple business functions.
+Facilitating requirements workshop with business stakeholders
+Capturing detailed functional, technical, reporting & data requirements and support the translation of these requirement documents in to functional and technical specifications.
+Conducting analysis of systems specifications and use analysis/diagramming tools to represent business / technical processes.
+carrying out business, testing and training requirements gathering; workflow analysis, gap analysis, user stories, test case development and functional design.
+Providing support to Salesforce users in sales and customer relationship teams, and act as the primary point of contact for end-user support.
+Demonstrating Salesforce capabilities to solve business problems by implementing Proof of Value pilots and producing the supporting documentation.
+Collaborating with end-users to create and maintain training materials.
+Managing relationships with stakeholders to achieve project goals.
+Staying up to date with the periodic Salesforce releases and leverage the updates applicable to the org & provide critical communication to users where needed.
+Your ability to clearly communicate between the business and technical specialists will help you excel in this role. You will have excellent written and oral communication skills, be a highly motivated, proactive and resilient individual. You will demonstrate sound business judgement and possess strong interpersonal skills which will give you the ability to liaise with stakeholders at all levels.
+You will have experience in identifying process improvements and enhancements through SFDC utilization and future capabilities, along with project management skills which will be beneficial in this role.
+Your experience in the Financial Services Industry - Asset Management, including alternative assets will be valuable to be a key player on this team. In addition to change management/user adoption and training skills which are recommended.
+Finally, proficiency in data management and/or analytics platforms (Excel, Access, Microsoft power BI, Einstein Analytics) will be leveraged regularly.
+About Macquarie Asset Management
+Macquarie Asset Management is a large scale, global asset manager, providing clients with access to a diverse range of capabilities and products across infrastructure, real estate, natural resources, private credit, fixed income, equities, multi-asset and liquid alternatives. As at 31 March 2021, Macquarie Asset Management had $A562.2 billion of assets under management.
+Our commitment to Diversity and Inclusion
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive."
+2,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+EY DnA is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors.
+
+We are looking for a Technical Business Analyst within the Technology Consulting – Data and Analytics team in our Perth office.
+
+As a Technical Business Analyst, you will support our clients in defining and implementing a data journey aligned with their strategic objectives. Some of your responsibilities will include:
+
+Be a part of one of our successful delivery teams and get an opportunity to move into a more consultative role working across various data environments and helping our clients solve their business problems with data.
+Be responsible for creating requirement specifications, analysing requirements, creating visual models, facilitating elicitation sessions and digging around in the data when needed.
+Designing and building reports – capture data requirements for the client and team
+Have knowledge and experience of all phases of software development including requirements analysis, design, coding, testing, defect management.
+Have experience in business intelligence, data warehousing or advanced analytics projects.
+
+To qualify for the role, you must have
+
+Creating requirements specifications, analysing requirements, creating visual models, facilitating workshop sessions, and using the necessary business analyst tools.
+Working with SQL databases and database querying languages.
+With programming skills such as Python and R.
+Hands on experience working technologies/platform e.g. Power BI, Microsoft suite, Jira/Confluence, Azure DevOps.
+
+Ideally, you’ll also have
+
+Experience with cloud deployment (AWS, Azure)
+Exceptional communication, documentation, and presentation skills.
+Ability to problem-solve and think critically.
+Technical reconciliation and reporting skills.
+Some development experience would be advantageous but not essential.
+
+What we offer
+
+A tech career @ EY means working with 40,000 fellow technologists who are creating cutting edge applications in blockchain, AI, cloud, analytics, robotics and cyber, harnessing tech to power the human enterprise and build a more equitable, sustainable world. We offer world class training and a free Tech MBA to all our people.
+
+Globally at EY, we are committed to offer
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+We hold a collective commitment to foster an environment where all differences are valued and respected, practices are equitable, and everyone experiences a sense of belonging. If you require any adjustments to the recruitment process in order to equitably participate, we encourage you to advise us at the time of application via contactrecruitment@au.ey.com or phone +61 3 8650 7788 (option 4).
+
+The exceptional EY experience. It’s yours to build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+3,"Senior Data Analyst - Quality and Patient Safety (523197)
+Department of Health
+Clin Quality, Rgltn & Acred
+CQRA - Clin Governance, Qlty & Ptnt Sfty
+
+
+Applications must be submitted by Sunday 29 May, 2022 11:55 PM
+Position details
+Applications close:
+Sunday 29 May, 2022 11:55 PM AEST
+
+
+Award/Classification:
+Health and Human Services (Tasmanian State Service) Award/General Stream, Band 6
+
+
+
+
+Employment Type:
+Part Time
+
+
+Region:
+North
+
+
+Applicants are advised that in accordance with Tasmanian Public Health Directions, all employees of the Department of Health must be fully vaccinated against COVID-19. This step is critical in protecting both our health workforce and vulnerable Tasmanians in our care.
+The Team:
+The Clinical Quality, Regulation and Accreditation Group (CQRA) consolidates specialist advice on health professional, policy and clinical issues impacting the Tasmanian health system, to the Secretary of the Department of Health (DoH).
+The Role:
+The Senior Data Analyst - Quality and Patient Safety contributes to the successful positioning of the Agency as a leader in the provision of high quality, accountable and measurable healthcare, both internally and externally, by:
+Acting as an expert resource to the statewide Quality and Patient Safety Service (QPSS) within Clinical Quality, Regulation and Accreditation regarding clinical data and information management indicators associated with the service.
+Providing data analytics services to the statewide QPSS, including the provision and management of relevant, high quality informatics.
+Working extensively with the QPSS teams within the services/regions and clinicians to promote and support the effective use of data through development of data analysis and reporting mechanisms that meet the strategic plan for the Service.
+Producing regular reports for governing entities that reflect Patient Safety, Quality Improvement and Compliance System Key Performance Indicators.
+Note: - Please refer to the Statement of Duties for all the selection criteria of this position to address in your application.
+Details of Appointment:
+Permanent, part time day work position working 7.6 hours per fortnight commencing 6 June 2022.
+notwithstanding hours may be negotiated with the successful applicant
+Applicants should note that, for a period of six months from the date of publication, this selection process may be used to fill subsequent or similar full time and part time vacancies.
+Location:
+Launceston
+Salary: $97,266 to $110,374 pro-rata per annum+ 10% superannuation
+Salary range is in accordance with Public Sector Unions Wages Agreement 2019
+Applicants should note the following criteria are desirable:
+Relevant postgraduate qualifications
+Current Driver’s Licence
+The Head of the State Service has determined that the person nominated for this job is to satisfy a pre‑employment check before taking up the appointment, on promotion or transfer. The following checks are to be conducted:
+Conviction checks in the following areas:
+crimes of violence
+sex related offences
+serious drug offences
+crimes involving dishonesty
+Identification check
+Disciplinary action in previous employment check.
+Download the Statement of Duties and any Associated Documents
+We encourage you to review the Applicant Guide and Statement of Duties, prior to applying for an overview of the duties, program, selection process and selection criteria.
+
+
+Applicant Guide
+
+
+How to Apply
+
+
+You will be prompted to complete a 1-2 page application detailing your experience, skills and knowledge as they relate to the attached Statement of Duties.
+Please Note:
+We do not require a separate statement addressing the selection criteria in the Statement of Duties.
+All attachments must be in Microsoft Word or PDF format.
+Referee details are submitted as part of the online application so make sure you have the contact details of two referees before applying.
+For More Information
+Amanda Cruwys
+Patient Safety Manager – Consumer Engagement
+(03) 6777 4235
+amanda.cruwys@ths.tas.gov.au
+
+
+Important Information
+The email account you provide when submitting job applications will be used in correspondence to you. It is important that this is kept up to date and monitored regularly.
+To update your email address (or contact number), log in to www.jobs.tas.gov.au and look for “Existing applicant login” where you can update your details
+The Department of Health values workforce diversity and recognises the value each person offers which is shaped by their unique characteristics, background, experiences, knowledge, skills, values and perspectives."
+4,"• 0-3 years relevant experience in financial/business analysis • Experience defining requirements and using data and metrics to draw business insights • Experience making business recommendations and influencing stakeholders • Experience in SQL • Experience with Microsoft Excel
+
+Job summary
+The Financial Analyst will report to the FP&A Lead and partner with onsite finance teams located in Australia, to support various analytical, planning and reporting needs. This is an exciting opportunity to join a fast-paced business at Amazon. The successful candidate will be strategic, analytical, and have a demonstrated ability to effectively manage the financial responsibilities of a high-growth business.
+
+This position will be responsible for building and managing critical performance indicators and business analyses and requires a candidate with strong technical experience, project management skills and communication skills. The successful candidate will be comfortable working in cross-functional teams, and demonstrate strong leadership skills. The ideal candidate must have superior attention to detail and the ability to successfully manage multiple competing priorities simultaneously. The position represents an exciting opportunity to be a part of an extremely dynamic and high paced environment, supporting a global organization and offers significant opportunities for rapid growth.
+
+-
+In the spirit of reconciliation Amazon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+
+-
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer, and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected attributes.
+
+-
+Our team operates out of our fabulous CBD office (conveniently located near many transportation options), and from home (during COVID-19) leveraging technology.
+Amazon offers employees a competitive remuneration package, including participation in the company stock plan as applicable. We also look after our people with benefits, such as subsidized private health insurance, superannuation and paid parental leave options, amongst others.
+
+Key job responsibilities
+
+Support ongoing financial processes and drive/improve controllership.
+Participate in quarterly forecast, annual plan and long range plan of a portion of the business.
+Design, develop and maintain scaled, automated, user-friendly systems, reports, dashboards, etc. that will support our internal partners.
+Report key insight trends, using statistical rigor to simplify and inform the larger team of noteworthy story lines.
+Own and perform individual deep dive analyses, including communicating results and implications to leaders.
+
+• University degree in Business, Finance, Statistics, Mathematics, or other quantitative discipline. • Advanced knowledge of data analysis and experience analyzing large and complex data sets from multiple sources. • Experience leading large-scale analytics projects using AWS technologies (e.g. Redshift, S3, Quicksight, etc.). • Proven ability to mine data and use it to back up assumptions and test hypotheses • Experience working with senior leaders and end-customers to define requirements and reporting needs."
+5,"Location: Docklands, VIC, AU, 3008
+Entity: Tango Energy Australia Pty Ltd
+Tango Energy is proudly owned by Pacific Hydro Australia. Our business first started in 2012 with a range of competitive energy products delivering value to our fast-growing customer base. With a new CEO and 5-year strategic plan, the business is taking the next step in an exciting future reflecting the importance that renewable energy has in Australia's future.
+A career with us is more than just a job. You will be helping us to lead Australia to an affordable, clean energy future, working on renewable energy projects that deliver positive social, environmental and economic outcomes.
+
+
+About us
+Tango Energy is proudly owned by Pacific Hydro Australia. Our business first started in 2012 with a range of competitive energy products delivering value to our fast-growing customer base. With a new CEO and 5-year strategic plan, the business is taking the next step in an exciting future reflecting the importance that renewable energy has in Australia's future.
+This is an exciting time to join the team as we are experiencing significant growth and are seeking someone keen to be part of contributing to the changes we are making. We provide options for our staff to work a mix of in the office and at home.
+
+
+About you
+This Business Analyst role will be the key liaison between business stakeholders and technical staff. You will be responsible for preparation of documentation of system workflows, data flows and functionality, conducting gap analysis between as-is and to-be solutions. You will also be working with our test team and managing systems, projects, and external vendors.
+
+
+Qualification and Skills
+Tertiary qualification in a relevant field preferred
+Previous experience as a Business Analyst
+Experience in electricity retail business especially in billing preferred
+Understanding of system data structures
+Understanding of basic SQL server (preferred)
+Agile background with the ability to define user stories
+
+
+Some of our benefits
+Support of flexible working arrangements
+Geelong free on-site parking
+An always-changing calendar of fun events and friendly competitions
+Reward & Recognition Program
+Being a part of a diverse and engaging work culture
+You will also have access to a range of benefits such as Wellbeing Leave, Volunteer Leave, Purchased Annual leave, income protection insurance and great employee rates on electricity and gas.
+
+
+The requirements of this role mean that you will need to be fully vaccinated against COVID-19.
+For this role, candidates with the eligible right to work in Australia will be considered."
+6,"Flexible workplace (WFH), working as part of a Data Engineering team, with a focus on data migration
+
+Nationally recognized brand is currently seeking a Data Analyst to aid in their data migration to the cloud.
+
+SQL will be the core of what you do, so they need you to be an expert in that space.
+Bonus expertise would be SSIS, SSRS, SSAS, Power BI, DAX, Azure, ADF, Python.
+You will be working as part of a strong data engineering team, so will you naturally learn these bonus skills as you go anyway.
+Skill set / Experience needed -
+5+ years relevant work experience in analytics, business intelligence, or data science
+Experience with one or more data vizualisation tools (Tableau, Power BI, Qlik, etc.)
+Expert-level skills in SQL (essential)
+Ability to work well in a fast-paced environment with a positive attitude
+Ability to communicate complex findings to a broad audience
+Collaborate with business units to perform requirements analysis, project scoping and data analysis
+Build reports and dashboards that work reliably for the business and are accurate
+Assist in the design and implementation of standards and procedures and ensure documentation of data and analytics processes are consistently maintained according to best practices
+Understand the implications of data integrity and reporting as a result of upstream / downstream changes ensuring risks are identified and mitigated
+Work collaboratively with internal teams to drive efficiency and quality solutions that satisfy business needs
+Experience with the Microsoft BI stack, including Azure SQL DB, SSAS Tabular, SSIS, Azure Data Factory (nice to have)
+Experience with DAX (nice to have)
+Attention to detail to consistently deliver high quality output
+Excellent problem-solving and troubleshooting skills and ability to think creatively
+If you like transforming data into information and transforming information into insights, then this is the role for you.
+
+Please send your resume by clicking on the apply button. Your application will be assessed within 3 working days. Please note only shortlisted candidates will be contacted.
+Learn more about our Sydney recruitment services https://www.roberthalf.com.au/sydney"
+7,"Job no: 509776
+Work type: Permanent Full Time
+Location: Melbourne, Perth, Brisbane, Darwin, Canberra, Parramatta, Sydney, Wollongong, Penrith, Rhodes, Newcastle/Hunter, Adelaide
+Division: Audit, Assurance & Risk Consulting
+
+Join KPMG’s Risk Data and Digital Talent Community and start planning your future
+We do our best work together
+Learn how we value, celebrate and support our employees
+KPMG is one of the most trusted and respected global professional services firms. Through depth of expertise, clarity of insight and strength of purpose we help our clients solve complex challenges, steer change, strengthen, transition and grow. We are looking for talented people who share our purpose of inspiring confidence and empowering change for our clients, our people and our communities.
+Why join our Data and Digital Talent Community?
+In line with our values “For better” we are committed to taking a long term view with our recruitment, to make KPMG a better firm for future generations. We do our best work together, so if you’re interested in joining our team and building a future with KPMG, we still want to hear from you.
+Relationships are important and sometimes they take time. Joining our Talent Community is an opportunity for us to get to know each other. We’ll help you understand if KPMG is the place for you and, if it is, we’ll work together to identify the right roles and teams for when the time is right for you to make the move.
+
+
+KPMG’s Strategy, Growth and Digital – how we work and our integrated teams
+We provide unique services through delivering consulting projects, data trust management, custom analytics work, AI, proofs of concept and data platforms. Working in our team you'll be mixing with some of the brightest minds while working on significant commercial projects – solving real world problems at some of the nation's most respected companies, using some of the most exciting and interesting data you wouldn’t normally have access to.
+Our highly skilled Data & Analytics team helps our clients to use their data resources for creating value, managing risk, enhancing competitiveness and driving business decisions within Data & Analytics.
+Our mission is to assist organisations turn their data into strategic assets, developing data strategies and data management practices that enable responsible innovation and drive trust in emerging technologies (i.e. artificial intelligence)
+We work closely with multiple industries and academia to explore the new and evolving risks posed by Big Data and Artificial Intelligence, and develop new approaches to make ethics in data and Artificial Intelligence real for our clients.
+Our Data Remediation team supports our client on complex engagements as they seek to restore trust and address regulatory and legal challenges that are high priorities for boards and executives. Working as a part of a cross-functional team, our consultants use data to understand and define the issue and implement a solution along with the required governance and control frameworks. We work on these high-impact engagements at client sites and also with our KPMG Managed Services Operation Centre and leverage technologies and tools developed in Australia and from our global network
+Our Tech solutions team leverages cutting-edge technology solutions to supports our clients with their risk and regulatory related challenges
+Are you Extraordinary?
+At KPMG, we believe diversity of thought, background and unique experience strengthens relationships and delivers meaningful benefits to our people, our clients and communities.
+We’re interested in hearing from extraordinary people at all levels with skills and experience that could include:
+Data Scientist: Using Data Science techniques and Machine Learning skills over Big Data
+Data Engineer: Engineering modern data solutions or pipelines to facilitate advanced analytics, visualisation & interactive data applications
+Data Analyst: Analysing and business consulting with data – using relational databases (SQL), data workbench & visualisation tools for project delivery, applying business logic and interpreting results
+Data Management Specialist: strong understanding of data management principles and how to apply them including knowledge of models such as DCAM, DMBOK, regulatory frameworks such as BCBS 239, CPG 235 and principles and practices of data quality, lineage, master / reference data management
+You will have:
+A sound understanding of digital and cognitive technologies and analytics, information management and business process based solutions
+Demonstrable industry knowledge; understanding the way your primary industry functions and how data can be collected, analysed and utilized; maintaining flexibility in the face of big data developments
+Experience in financial services, telecommunications, government and retail is not mandatory but highly regarded
+Possess the following traits:
+Intellectual curiosity; exploring new territories and finding creative and unusual ways to solve data management problems.
+Patience, as nothing will work the first time.
+Focus; enjoy working in the detail and understanding the intricacies of how and why a data pipeline works as it does.
+A disciplined approach to problem solving and an ability to critically assess a range of information to differentiate true business needs as opposed to user requests
+Excellent interpersonal, oral and written communication skills
+Proven ability to develop and manage enduring client relationships, engendering a sense of trust and respect
+Have a questioning mind and lots of bright ideas
+Be a critical thinker with strong analytical and problem solving skills
+Be comfortable with manipulating and combining large, high dimensional datasets from multiple sources
+Have an ability to interpret findings and identify key insights to communicate to a non-technical audience
+Have demonstrated experience building relationships with internal and/or external clients
+Possess business development capability to utilise your professional networks and further develop this with us
+
+
+The KPMG Difference
+At KPMG, we’re passionate about creating an inclusive workplace that promotes and values diversity. We believe that everyone’s unique experiences enable us to deliver meaningful benefits for our people, our clients and communities. We welcome and encourage applications from people of all backgrounds, ages, religions, including Aboriginal and Torres Strait Islander Peoples, LGBTIQ+ people, those with a disability, women and people with a cultural or linguistically diverse background.
+We embrace flexibility as a key principle to allow our people to manage the changing demands of work, personal and family life.
+KPMG has a decade-long, proud commitment to Indigenous Australia, as demonstrated by the achievement of an Elevate level Reconciliation Action Plan. KPMG is a foundation member and Principal Partner of Pride in Diversity started in Australia by ACON and the Diversity Council of Australia, and is recognised in the Australian Workplace Equality Index(AWEI) which evaluates LGBTIQ+ inclusiveness in the workplace. KPMG Australia has been consistently recognised as an Employer of Choice in the Australian Government’s Workplace Gender Equality Agency(WGEA) annual index.
+
+
+Flexibility empowers wellbeing
+Flexibility enables contribution to the community
+Flexibility inspires technology & innovation
+Flexibility supports family
+
+
+Make KPMG the clear choice for your career and be Extraordinary!
+To join our Talent Community, please click .
+Advertised: 13 Apr 2022 AUS Eastern Standard Time
+Applications close: 30 Jun 2022 AUS Eastern Standard Time"
+8,"In this role, you will work as part of our team of Data Specialists. You will be a data advisor to the business helping with understanding the business problem and using data to help solve it. We have some exciting projects coming up in this space for FY23 so it's a great time to join the team!
+Responsibilities:
+You identify business needs and obtain, analyse, define, communicate, and validate requirements for agreed changes to our data and analytic solutions and strategic data platform.
+Partner with SMEs and leaders across the organisation to enhance Great Southern Bank’s tactical and strategic analytic solutions.
+Ensure that stakeholder data requirements are understood and framed in the context of the enterprise data platform.
+
+Skills & Experience:
+4+ years’ experience as a technical business analyst with demonstrated strong business analysis skills, including stakeholder management, requirements gathering and documentation
+Coding experience in either SAS or SQL
+Sound written and verbal communication skills including developing data requirements, solution documentation, facilitating workshops, building relationships and interacting with stakeholders within all levels of the organisation
+Experience in facilitating data modelling sessions with business stakeholders to elicit conceptual data models
+Previous exposure to working with Business Analysts, Data Architects and Data Engineers
+
+A little bit about us...
+CUA has entered an ambitious and exciting growth phase and is now known as Great Southern Bank- Australia’s largest customer owned bank. Focusing on the next stage our of development as an organisation and repositioning to remain relevant to our customers-current and future-we are investing significantly in technology, products, and people! We have a culture that’s fun, approachable and supportive- allowing our team members to be their best every day, whether that’s at work or at home!
+
+We’re hugely excited about the journey ahead and are looking for talented and enthusiastic people who want to be part of a winning team. If you are motivated, energetic and dedicated to helping our customers achieve the great Australian dream, we want to hear from you!
+
+Questions? Please contact Helen Brady from our Talent Acquisition team at helen.brady@gsb.com.au
+At Great Southern Bank, we’re committed to building a strong, inclusive and diverse workplace, where people feel a sense of belonging, are valued, connected and respected. We value diverse backgrounds, cultures, abilities, ideas and experiences; recognising the benefits they bring to our work, our communities and the way we help our customers. We support and promote an inclusive culture through flexible ways of working, collaboration, fair and equitably decision making that empowers our people to be at their best every day.
+#LI-111271553_SC1"
+9,"Exciting opportunity using data to drive and support policy and programs helping students with disability reach outcomes.
+Temporary Full-Time up to 13 March 2024
+Location: Parramatta
+
+
+About the Department of Education
+The Department of Education is the largest provider of public education in Australia with responsibility for delivering high-quality public education to two-thirds of the NSW student population.
+For more information about the Department of Education, please visit NSW Department of Education
+The Disability Strategy team sits within the Inclusion and Wellbeing Directorate. The Disability Strategy team is responsible for the implementation of the department’s Disability Strategy which sets out the department’s plan for providing children and young people with disability, their families and the broader community with an education system that meets their needs.
+
+
+About the role
+The Senior Data Analyst conducts current and future state analysis and documents requirements, processes and procedures to support the delivery of and maintain an Outcomes Framework for students with disability.
+For further information please view the role description.
+Essential requirements of the role
+Hold a valid clearance to work with children (Working with Children Check) for paid employment.
+Tertiary qualifications in a related discipline and/or equivalent knowledge, skills and experience with demonstrated commitment to ongoing professional development.
+Highly experienced in MS Excel for data manipulation and synthesis.
+
+
+
+Key knowledge and experience
+Knowledge of and commitment to implementing the Department’s Aboriginal Education Policy and upholding the Department’s Partnership Agreement with the NSW AECG and to ensure quality outcomes for Aboriginal people.
+
+
+About you
+Strong communication & attention to detail.
+Be a self-starter & can think outside the square.
+Be passionate about making a difference.
+Strong analytical skills.
+Strong communication & interpersonal skills.
+A passion and curiosity for exploring and discovering new insights from data.
+Outstanding problem-solving skills including the ability to work with ambiguity.
+Proven experience extracting, cleansing and analysing large and complex datasets.
+Experience undertaking large-scale research and analysis of statistical data.
+Demonstrate high experience in computer packages such as Excel or a specialist software used for analysis.
+Demonstrate a sound understanding of data, analysis and reporting (particularly synthesis of large volumes of data into readily understood information).
+
+
+Benefits
+Opportunity to make a difference at Department of Education
+Flexible work-life balance
+Competitive salary
+35 hour week
+
+
+How to apply
+When applying you will need to:
+Attach a resume (maximum 5 pages) and a cover letter (maximum 3 pages) outlining how you meet the requirements and capabilities of this role.
+Note: the selection process will include a range of assessment techniques to assist in determining your suitability for the role. Successful candidates will be required to undertake pre-employment screening for this role which includes a Working with Children Check and National Criminal History Check.
+This is a child-related role. As a condition of employment you will be required to provide a Working with Children Check (WWCC) Clearance number and complete a National Criminal Record Check. Visit the website for more information.
+Closing date: 29 May 2022 at 11:59pm.
+For role enquiries please contact Kavitha Selvakumar on 02 7814 2427 or email kavitha.selvakumar@det.nsw.edu.au
+COVID-19 Vaccination certification: Under the Direction from the Secretary issued 22 November 2021, all Department of Education corporate staff, early childhood education staff and non-school based staff are required to meet the mandatory double vaccination requirements, or provide a valid medical contraindication certificate, by no later than 30 January 2022 to attend a Department of Education site.
+We welcome applications from all ages and genders, Aboriginal and Torres Strait Islander peoples, culturally and linguistically diverse groups, the LGBTQIA+ community, veterans, refugees and people with disability. If we can make some adjustments to our recruitment/interview process to better enable you to shine, please contact the Diversity and Inclusion Team (dandi@det.nsw.edu.au) or visit NSW Department of Education Diversity and Inclusion.”
+A talent pool may be created through this recruitment process. A talent pool is a group of applicants who have been assessed and identified as suitable for this role, and who may be considered for a range of similar roles, including temporary, term or ongoing roles, over the next 18 months."
+10,"Overview
+To provide investment operations support to Link Fund Solution’s boutique fund managers covering a range of portfolio administration functions namely valuations, corporate actions, cash forecasting, performance reporting, trade settlement management, cash movements, broker and custodian liaison, and relationship management.
+
+
+
+Key Accountabilities and Main Responsibilities
+Reconciliation of cash records, positions and trades to the custodian/ PB
+Ensuring timely delivery of various reporting requirements to fund managers
+Updating portfolio system relating to investment trades, settlements, corporate actions, income receipts and cash movements
+Post trade compliance monitoring
+Preparation of reconciled month end portfolios for accountants to complete unit pricing
+Preparation of periodic reports to fund managers, their clients, and asset consultants
+Build and maintain effective relationships with wholesale and retail clients
+Liaison with custodians, fund managers and brokers
+Regular reviews of Investment Operations processes and procedures with a view to implementing efficiency and accuracy improvements
+Involved in Project work to improve service quality e.g. system implementations / upgrades / testing
+Gross Asset Value (GAV) production and review
+Play an active role in the on-boarding of new clients and ensuring the effective and timely implementation of client change requests
+Peer review of data entry and allocated tasks
+Train, mentor and coach junior members of the team
+Investment types both domestic and international will include Equities, Futures, Options, FX, Currency forwards, Swaps, Fixed Income, and Managed Funds
+Experience & Personal Attributes
+3 - 4 years registry experience in a custody, fund administrator or fund manager environment within a high volume, client focused working environment
+Tertiary degree in relevant field such as Finance, Accounting or Commerce
+Strong understanding of investment products, markets & securities
+Strong understanding of fixed interest and derivatives product classes
+Preferred systems knowledge – IRESS, Omgeo
+Oversight, review and preparation of team’s daily deliverables
+Problem solving and implementing practical solutions
+Ongoing monitoring and improvement of risk and compliance controls
+Training, mentoring and providing feedback to staff
+Proactively responds and adapts to change – supports and influences strategies to enable business transformation and enhancement
+Excellent written & verbal communication– expressing ideas effectively in individual and group situations
+Excellent organization skill - ability to multi-task in a high-pressure environment
+Attention to detail – ensure accuracy and efficiency of daily tasks and high personal standards in all work areas
+Team orientation – works with the team and the broader organization towards shared goals and treats all colleagues and clients as partners
+
+
+Link Group is a leading fund administration and share registry specialist. We are a market leading provider of technology-enabled administration solutions, continually developing our offerings to expand with our clients' needs. Since our inception, Link Group has been entrusted by clients to handle sensitive data in a secure and confidential manner. Our core businesses of fund administration and securities registration are complemented by our expertise in digital solutions and data analytics.
+
+
+We are a leading independent Authorised Fund Manager and provider of fund administration and transfer agency services.
+We leverage our specialist knowledge and technology to support traditional and alternative funds in UK, Ireland, Luxembourg and Australia. With a focus on strong governance, regulatory expertise and risk management, our business helps to manage regulatory compliance for asset managers and investors.
+Our unique place in the market, combined with our partnership approach, depth of experience and well-invested systems, enables us to support investment managers through the challenges of changing market and investor needs, and, as a result, help them to enhance returns, minimise costs and mitigate their risks.
+Link Group is building a dynamic, client focused, caring and inclusive culture that is built on the foundations of an entrepreneurial spirit, effective risk management, empathy and trust, and underpinned by its core values.
+We are an inclusive employer whose people work collaboratively. We encourage, support and value the various talents and perspectives of our people and promote a flexible and blended work environment where our people can thrive and their wellbeing is supported. We know that diversity drives better client outcomes, continuous improvement, and growth. Be part of the Link Group journey and together we will achieve our full potential.
+We treat all individuals fairly and equitably and do not discriminate on the basis of diverse characteristics including, but not limited to gender, gender identity, sexual orientation, age, ethnicity, cultural background, physical abilities/disabilities, religious or political belief, marital or family status or carers responsibilities.
+Candidates must have the relevant work rights to be considered for an opportunity at Link Group. Successful applicants will be required to complete background screening prior to commencement of employment."
+11,"Date: 26-Apr-2022
+
+Location:
+Melbourne, VIC, AU
+
+Department: In-Demand Skills
+
+Description:
+Interesting, challenging finance function centric client problems to solve
+Flexible work arrangements - work in a way that suits you best
+Mentoring and development programs - receive support and coaching to progress your career
+18-weeks paid parental leave for eligible staff
+
+Our diverse and inclusive assurance and advisory team is growing more than ever as our clients come to us to solve today’s and tomorrow’s finance issues – and that’s why we need you – to help us make an impact that matters!
+
+About the team
+
+In Finance Assurance, our team applies their understanding of technology, how finance functions work, and financial reporting, accounting and audit requirements to help our clients in the private and public sectors navigate and solve their burning issues by bringing innovative, thoughtful, efficient and effective solutions. In this way, our clients make more timely and informed business decisions.
+
+We also believe in bringing the best of our firm to our clients and regularly collaborate with other specialists within our firm in delivering these solutions.
+
+Our areas of expertise include advising on:
+End to End accounting and reporting implications of proposed or planned transactions (such as mergers, acquisitions, integrations, separations, and restructuring), changes to the Australian Accounting Standards or other regulatory requirements
+business issues which have reporting implications such as ESG (environmental, social, and corporate governance) and climate change
+accounting or financial reporting change implementations
+technology (including data analytics), internal control or process/performance enhancements that can be made to improve the efficiency and effectiveness of finance functions processes and reporting
+compliance with financial contractual obligations
+finance function support at month end, year-end, or on call.
+
+Enough about us, let’s talk about you.
+
+Are you curious, practical, love learning, relish a challenge, are collaborative, thrive on working on a variety of diverse problems from clients in different industries and sectors and being part of a fun, professional team? If so, read on!
+
+We’re looking for someone with:
+3+ years of experience within accounting, finance or audit
+Qualifications in an accounting/finance degree and CA qualification or equivalent
+Strong technical financial reporting and accounting skills
+Excellent skills delivering finance or accounting advisory projects or internal improvement activities
+Well-developed relationship management skills
+Strong project management skills across all aspects of managing finance or accounting projects
+Excellent collaborative skills, precision thinking and a dedicated work ethic
+Strong experience in managing variety of stakeholders effectively, both externally and internally
+Experience in coaching and guiding other team members in applying tools, guidance and methodology in delivering projects
+
+Why Deloitte?
+
+At Deloitte, we create positively differentiated work experiences that enable our people to feel valued and achieve their full potential. Deloitte Australia opens the door to a career that can cross borders virtually and physically across Asia Pacific to gain experience and access projects beyond Australia’s borders. We value difference, and embrace people with diverse backgrounds, experiences, gender identities, abilities and thinking styles. Knowing that people work best in a variety of ways, we are happy to discuss alternative arrangements if the working pattern you are looking for is not specifically indicated.
+
+We’re committed to continually building a safe and respectful workplace, where all our people feel appreciated and accepted. Through the creation of endorsed employee-led diversity networks which promote cultural, disability, LGBTI+, Aboriginal and Torres Strait Islander people and gender equality, we’re leading the way to shape an environment where everybody can thrive.
+
+We are proud to have been recognised for our efforts in inspiring change and accelerating progress – check out our careers site for recent recognition in this space."
+12,"If you have an appreciation for Data Management and are looking to build your career in this rapidly growing specialisation, there is a unique and exciting opportunity to join the Group Data Office within Macquarie’s Financial Management Group. This role will see you working closely with stakeholders across the business to identify critical data and drive effective data management across our group.
+What impact will you have?
+As a Data Management Executive, you will work alongside large change initiatives, guiding the implementation of our data management steps. You will build relationships with these stakeholders, helping to increase understanding of data governance and promote accountability for its ongoing implementation.
+In joining the team, you will:
+support the Group Data Officer in the strategy and project planning for data management processes and policies
+work with stakeholders to understand their critical data, business processes and data flows & controls
+be involved in documentation and data element mapping across systems (definitions, validations, lineage, and assessment of data controls)
+work to implement and embed the use of new data management tools across the business
+assist with designing processes and templates to facilitate effective data management.
+What skills will you use?
+To be successful in the role, you will possess 2 + years’ experience working with data management principles. This experience may have been gained through building data solutions, identifying data requirements or addressing data quality issues. Other key skills include:
+knowledge of data management and data governance principles
+prior experience translating technical concepts into business concepts
+ability to produce detailed documentation – including mapping business processes and data elements
+excellent communication skills and desire to partner with business stakeholders to solve interesting problems.
+This is an exciting opportunity where you will find yourself involved in diverse work, utilising your strong communication skills to work collaboratively with and build relationships across multiple business groups.
+About the Financial Management Group
+The Financial Management Group provides financial, tax and treasury services to all areas of Macquarie. The group is focused on providing strategic analysis and advice to Macquarie's businesses and senior management, managing Macquarie's funding, liquidity and capital position, ensuring Macquarie continues to meet regulatory and compliance obligations and managing Macquarie's corporate affairs.
+Our commitment to Diversity and Inclusion
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+
+
+About Macquarie
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 17,000+ employees and offices in 33 markets around the world, we’re a truly global organisation.
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+
+Job no: FMG-958976
+Work type: Permanent - Full time
+Location: Sydney
+Category: Junior, Accounting & Finance, Data & Analytics, Projects, Improvements & Change
+Group: Financial Management Group
+Division: FMG Central
+Recruiter: Verity Morison
+Opening Date: 09/1/2022"
+13,"The Opportunity
+Helix is a one of a kind health data platform that is enabling innovation that harnesses digital disruption in health research. This pioneering program provides a range of capabilities to the health research community which includes the development of technical solutions for capturing, transporting, storing and analysing health data to transform the healthcare industry. Working in close collaboration with many researchers within the Health sector and through the enabling of epidemiological and translational research, Helix is not only transforming health research but is also improving the well-being of our community.
+We have an exciting opportunity for an experienced Database Analyst to join us on an exciting project where you will be responsible for the design, development and support of health database as well as a variety of analytical functions. You will work alongside a team of enthusiastic, high-performing researchers and other internal stakeholders in doing so.
+Your key duties will include but not be limited to:
+Undertake a variety of database development activities varying in complexity and scale
+Research and develop innovative designs and testing for reporting and analysis of database data
+Perform key data loads using integration tools, and work closely with stakeholders to ensure no data loss or data errors persist
+Work closely with stakeholders ensuring database and reporting requirements are meeting users needs
+Demonstrate effective communication skills in dealing with internal and external stakeholders
+Keep abreast of new technologies and developments that could benefit the analyses of databases
+To be successful in this position, you will have experience in a complex Database Analyst role where you have been responsible for the maintenance of large, complex databases. You will have demonstrable strong analytical experience with the ability to identify challenges and provide innovative solutions quickly. You will also have experience with developing Microsoft databases and have experience in reporting and integration services technologies. Strong time management and prioritisation skills will see you excel in this role with your ability to change your focus as required with changing priorities. Additionally, demonstrable experience working in an Agile environment is key in this position.
+Please note, this role is primarily based in St Kilda Road, however you will be required to travel to other Helix sites as required.
+If you are passionate about being a part of this exciting transformation, then apply now!
+This role is a full-time position; however, flexible working arrangements may be negotiated.
+At Monash University, we are committed to being a Child Safe organisation. Some positions at the University will require the incumbent to hold a valid Working with Children Check.
+The successful applicant will need to possess a current valid Police Check.
+For instructions on how to apply, please refer to “How to apply for Monash Jobs”.
+To submit your application please click apply now through the Monash University careers website, applications will not be accepted via email.
+Enquiries only
+Dr Amr H Hassan, eResearch Delivery Leader, amr.hassan@monash.edu
+Position Description
+Database Analyst
+Closing Date
+Monday 30 May 2022, 11:55pm AEST
+
+
+At Monash University, the health, safety and wellbeing of our staff, students and visitors remain our priority. In accordance with the Directions issued by Victoria’s Chief Health Officer, we require all staff, students and visitors to be fully vaccinated against COVID-19 or have an approved medical exemption from receiving a COVID-19 vaccine in order to attend our campuses and locations.
+For the latest information on COVID-19 at Monash, please visit our website.
+Supporting a diverse workforce"
+14,"Job Details
+Location
+Sydney
+Salary
+Competitive
+Job Type
+Contract
+Ref
+JO-2205-557740
+Contact
+Sarah Jordan
+Posted
+6 days ago
+
+
+3 Month Contract + 3 Month Extensions – University Sector
+Armidale Location - Fully Remote Work
+Data analysis across highly regulated data sets
+The role
+Our Client who is a Leading Educational Provider is looking for a Data Analyst who will be responsible for Data analysis and modelling against transactional and analytical systems.
+
+Responsibilities
+
+Data modelling and data analysis across highly regulated data sets using PL/SQL
+Data analysis and modelling against transactional and analytical systems
+Delivering and identifying data trends, data anomalities and patterns
+Data modelling tools and the management of data modelling repositories and solutions.
+You will have
+
+Minimum 3 years of experience as a Data Analyst
+Minimum 3 years of experience with PL/SQL skills
+Understand of BI tools including Power BI, Tableau
+Experience with preparing reports for non-technical program stakeholders
+Excellent communication skills and stakeholder engagement
+What’s in it for you
+
+3 + 3 Month Contract
+Fully Remote Work
+Friendly and collaborative culture
+Please apply today to secure an interview or call Sarah Jordan on 9236 7765."
+15,"XY Sense is a PropTech company using IoT sensor data to create workplaces people love. Our privacy-preserving workplace sensors deliver real time insights and powerful analytics, helping companies around the world to future proof their workplace and create amazing employee experiences.
+
+We’re growing fast and looking for a Data Scientist to help us deliver world-class workplaces to our global enterprise customers. If you’re looking for your next opportunity in a young, fast growing startup, we’d love to hear from you!
+
+Key responsibilities
+Lead our Data Analytics product offering. You'll be a leader in delivering XY Sense’s data domain across the engineering and analytics pipeline to meet customer data reporting requirements. This will involve partnering with customer success and our product team to translate customer needs into prioritised technical requirements and dashboard design.
+Dashboard and Analytics Development. Development of fast and stable dashboards using Looker with regression models and prescriptive analytics to generate data that provides meaningful and actionable insights for customers in the domains of occupancy, space utilisation and occupant behaviours and activities.
+Customer presentations and training of analytics. In partnership with Customer Success, enable customers to quickly feel comfortable and gain value from dashboards and data generated by XY Sense’s sensors. This will be done through direct customer training and responding to support requests, development of guides and training materials, and designing onboarding user flows.
+Oversee data governance. As the responsible lead engineer for Data Analytics, build and maintain a data dictionary and data governance initiatives to support scale and stability of XY Sense’s data analytics offering.
+
+Your background
+Extensive experience in data analysis. You'll have deep experience developing models and using statistical analysis and business rules, to turn millions of data points into useful insights that solve business problems using SQL, and Python.
+Proficiency with Looker. You know how to run queries, build dashboards and develop systems to support scale and stability using Looker whilst delivering first-class customer insights and dashboards.
+Customer communications. You are comfortable at communicating technical concepts and calculations to business customers to support onboarding, troubleshooting and a high CSAT with data analytics offerings.
+Experienced in Cloud Environments. You have worked in cloud environments (ideally AWS) and have comfort working directly in code-bases as it relates to data processing and data hosting management.
+You are pragmatic and flexible and have an eye on the future. You pitch in and help your teammates and you’ll be resourceful when it comes to solving problems and flexing with a fast growth environment.
+You share our keen eye for quality. You don't half-ass your work, instead what you ship you take pride in. You cut scope before cutting quality.
+You are a good human. You are a clear and friendly communicator giving you the ability to articulate effort vs impact tradeoffs in senior strategy meetings and to be a trusted mentor to juniors.
+
+Benefits
+Competitive base salary plus equity. We want all employees to share in our growth, so there’s plenty of upside.
+Direct, hands-on experience working with a sharp team of engineers.
+A vibrant office culture. We host regular team breakfasts and social events, and like to eat lunch together when we can.
+We also value coming together as a team and host monthly “onsites” at our office.
+Our office is pet friendly! We’re often joined by Koji, our resident Labrador.
+Flexible working hours and location. We’re big supporters of work-life balance, so you can work when and where it suits you.
+We are an equal opportunity employer
+We are committed to a policy of Equal Employment Opportunity and are determined to ensure that no applicant or employee receives less favourable treatment on the grounds of gender, age, disability, religion, belief, sexual orientation, marital status, or race, or is disadvantaged by conditions or requirements which cannot be shown to be justifiable.
+W8LBtg6EZX"
+16,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+EY DnA is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors. You will join our dynamic Engineering team developing cutting-edge applications. We are industry pioneers and we actively look for innovative ways to achieve great results, which do speak for themselves
+
+To be successful in this role, you will have:
+Data warehousing experience with emphasis on Information management domain
+Data modelling experience
+Linux/Unix skills
+Prior working experience with AWS - any or all of EC2, S3, EBS, ELB, RDS, Dynamo DB, EMR
+Solid SQL experience, authoring complex queries and DDL
+Big data querying tools like Hive, Spark, Presto
+Working knowledge of Data Pipelines tools like Apache Oozie, LUIGI or Airflow
+Exposure to working in an Agile environment
+Proven ability to troubleshoot and resolve production issues under a DevOps model
+A track record of continuously identify opportunities to improve the performance and quality of your ecosystem
+Experience monitoring performance and ensuring infrastructure is appropriately matched to support workload and SLAs
+A broad knowledge of technical solutions, design patterns, and code for medium/complex applications deployed in clustered computing environment.
+
+Ideally you will also have:
+Good experience in programming languages like (Scala or Java or Python) in context of Big data technologies like Spark
+Data Streaming
+Experience working in environments with Docker, Kubernetes, Openshift
+Exposure to security concepts and best practices
+Knowledge of machine learning (E.g. Spark ML or R)
+Experience with real-time integration (using Kafka, Spark streaming or other technologies)
+Experience with Flink, Beam
+Experience with various messaging systems, such as Kafka, RabbitMQ, Solace
+A critical understanding of Lambda Architecture
+Experience and knowledge of major Hadoop distribution such as Cloudera, MapR, Hortonworks HDP
+Good experience with build tools like Maven, Gradle, Ant
+Working knowledge of API-based integration for modern system
+
+What we offer
+
+A tech career @ EY means working with 40,000 fellow technologists who are creating cutting edge applications in blockchain, AI, cloud, analytics, robotics and cyber, harnessing tech to power the human enterprise and build a more equitable, sustainable world. We offer world class training and a free Tech MBA to all our people.
+
+Globally at EY, we are committed to offer:
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+The exceptional EY experience. It’s yours to build.
+
+The preferred applicant will be subject to employment screening by EY or by their external third party provider. Regarding this role, the minimum salary is $90,000 including 10% superannuation.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+17,"Credit Risk Analyst
+This position reports to the Manager Collections Strategy and then into the Senior Manager Collection Strategy, and specifically deals with lending products like credit card.
+See yourself in the team:
+Retail Banking Services (RBS) Retail Products Credit Risk develops and implements credit strategies for all Unsecured retail credit products including Credit Cards, Personal Loans and personal Overdrafts. These strategies span the entire consumer lifecycle from pre-marketing to customer management, including collection of overdue amounts. The team also provides advice and oversight to business teams managing Unsecured Lending.
+In each week, your responsibilities will include:
+Lending/retail products collections strategy
+This will include building new collections strategies across the lifecycle of collections
+Maintenance of existing and newly implemented strategies
+Testing of newly implemented strategies
+Knowledge of how to use collection models of predicting risk
+Monthly BAU reporting
+Stakeholder management with other teams across COO
+We'd like to hear from people who:
+Experience in credit risk analytical environment or equivalent
+Experience Analytics or Data Science
+Strong data manipulation and statistical analysis (e.g., SAS, SQL, Tableau, Python, R, Excel).
+Strong knowledge of coding in SAS, Rm SQL or python
+Prior experience in statistical modelling working with decision engines is preferred, but not necessary
+Prior experience in internalising and conceptualising a problem to find core drivers, and solving through a hypothesis-led approach is essential
+Experience in change management, influencing, workflow management, and managing to the highest degree of compliance and governance (including documentation) is essential
+Persuasive communication skills are essential
+Ability to work with large data sets, and understand interactions between relevant data is necessary for the role
+If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We’re keen to support you with the next step in your career.
+We're aware of some accessibility issues on this site, particularly for screen reader users. We want to make finding your dream job as easy as possible, so if you require additional support please contact HR Direct on 1800 989 696.
+Advertising End Date: 26/05/2022"
+18,"The position
+The Marketing Analyst role exists to provide the business with analytical insight into the supporter, their giving behaviour and other attitudinal data to drive continuous improvement within marketing campaigns and supplying clear, accurate and reliable data/insights.
+Your role plays an integral part in the organisation, enabling us to support our mission of empowering Australians to create meaningful change for the world’s most vulnerable children and adults.
+This is a contract role until February 2023.
+You will:
+Develop, maintain targeting strategies through data including the creation and delivery of targeting lists/files for campaigns using various channels (ie: DM, eDM, Flat File outputs) and to required timelines
+Partake in targeting workshops and produce pre-campaign analysis to support strategic directions and make recommendations based on insights
+Analyse in-flight campaign responses to enable quick optimisations (where needed) or test and learn strategies
+Develop and utilise supporter segmentation within targeting strategies
+Create and develop post campaign analytics decks to simplify the core learnings for continual improvement
+Develop and maintain reporting dashboards to support campaign outcomes (maintain UTM tagging framework)
+Develop and maintain reporting methodologies to effectively measure various marketing activities
+Collaborate with other business functions to enhance understanding of data and its use, and ensuring a robust marketing/communications strategy
+Who we’re looking for
+We are looking for someone who has a curious mindset, can probe and ask questions, direct stakeholders and articulate insights back to the business.
+You will have:
+Proven experience in marketing (CRM) targeting campaign methodologies/strategies, customer/supporter segmentation.
+Experience with stakeholder engagement and presenting your findings and recommendations
+Exposure to test and learn (test/control groups) methodologies
+Experience with Agile ways of working
+Strong proven experience of using MS SQL to extract, analyse and create data for generating insights
+Experience with data visualisation tools such as Power BI, Tableau, Qlik
+Strong written communication skills demonstrated by the ability to produce sound written reports and technical documentation
+Exposure to Marketing Automation Tech-Stack is advantageous
+Tertiary qualifications in commerce, economics, marketing, business statistics, analytics or relevant discipline
+Working for World Vision means you are making the world better
+It’s not every day that a job comes along that lets you change the world. Working for World Vision means looking forward to turning up at work because you know you’re about to do something meaningful. It means working with 35,000 staff and 3.3 million supporters in 100 countries who will stop at nothing to help children live better lives. Join a team that is bold and courageous, and where job satisfaction goes beyond financial reward.
+The selection process
+For your information, the interviews will start immediately, and the role may be filled before the closing date.
+We embrace diversity, employing people from a variety of cultural and religious backgrounds. We take our Safeguarding responsibilities seriously and we are committed to providing an environment that is safe for children. Our stringent recruitment procedures make sure the safest and most suitable people work with the children in our programs. All successful candidates will undergo a criminal record and Working with Children check prior to employment. We provide our staff and volunteers with ongoing supervision, support and training in their work with vulnerable children and their families. World Vision Australia participates in the Inter-Agency Scheme for the Disclosure of Safeguarding-related Misconduct in Recruitment Process within the Humanitarian and Development Sector.
+Who we are
+World Vision is a Christian organisation that empowers everyday Australians to create meaningful change for children through relief, development and advocacy work.
+We offer great benefits such as salary packaging, flexible working arrangements, free on-site parking and an onsite café for our employees.
+For more information on World Vision and the work we do, please visit our website: https://www.worldvision.com.au/about-us
+
+
+Advertised: 30 Mar 2022 12:00 AM AUS Eastern Daylight Time"
+19,"Location of work – Sydney
+Job Type – Permanent
+Experience – 4- 5 yrs
+Job Description.:
+Skilled software professional with 3+ years of work experience in Data Warehousing and Telecom Domain.
+Familiar with Informatica Big Data Management (BDM), Hadoop and Cloudera environment.
+Good knowledge of Big Data querying tools, such as Pig, Hive, and Impala
+Experience with Big Data ML toolkits, such as Mahout, SparkML, or H2O
+Big Data/Data Lake technologies like Spark, Hive, Scala, Impala, YARN, Hbase, Sqoop, HDFS, NiFi etc.
+Manage HDFS and ensure that it is working optimally at all times
+Skilled in Informatica PowerCenter Administrator tools and Developer tools and have experience with Informatica & Teradata
+Good knowledge of creating Tableau dashboards over Oracle and Teradata processes.
+Experience in implementing Data warehouse and database applications with Informatica, SSIS, Data stage ETL tools on Teradata, Oracle, DB2, and MSSQL RDBMS
+Good knowledge in UNIX Shell scripting and using them to automate jobs, prepared several automations jobs specific to Admin activities in EDW platform
+Extensive experience with database technologies (MySQL, MS SQL, Oracle)
+Data analysis and incident management
+Please note only shortlisted candidates will be contacted for the role.
+you can submit your resume to hr@inkitsolutions.com.au as well
+About INKIT Solutions
+INK IT Solutions is a global IT consulting company, dedicated towards maximizing our client’s performance and help them achieve their vision. The company started in Australia in 2013 and now employs more than 150 people in 4 countries."
+20,"WORKING WITH A GLOBAL LEADER IN SUPPLY CHAIN / LOGISTICS
+BUILDING POWER BI APPLICATIONS
+AUSTRALIA WIDE REMOTE ROLE
+
+ABOUT THE COMPANY
+Our client is an industry leading brand who dominate their place in the Global market. Currently looking to bring on an expert Senior Data Analyst working with Power BI.
+
+DUTIES
+As a Senior Data Analyst the core responsibilities of your role will cover:
+
+Building Power BI applications
+Using Power Apps and Power Automate Technologies
+Delivering projects in a fast paced environment
+SKILLS
+You will come with strong experience working in a complex data driven environment, where managing and manipulating complex SQL data sets. You will be able to demonstrate:
+
+Strong technical skills using SQL, manipulate and merge large volumes of data.
+Expert in building Power BI applications
+Very strong experience using PowerApps & Power Automate technologies
+BENEFITS
+This is an exciting opportunity to join an industry leading company while they continue to scale and grow with exciting new projects.
+
+SALARY
+Up to $1,000 pd
+
+HOW TO APPLY
+Please click on the 'Apply' button below or email your resume to shay@correlateresources.com"
+21,"Posted
+02-May-2022
+Service line
+Advisory Segment
+Role type
+Full-time
+Areas of Interest
+Data & Analytics
+Location(s)
+Adelaide - South Australia - Australia, Brisbane - Queensland - Australia, Melbourne - Victoria - Australia, Perth - Western Australia - Australia, Sydney - New South Wales - Australia
+Newly created role due to growth and expansion in our Data Analytics team
+Dynamic and fast-paced team with strong integration and collaboration with the business
+Location: Australia | WFH | Flexible & remote working available
+
+CBRE is the world's leading and largest commercial real estate services and investment firm; a growing and visionary organisation, comprised of the best and brightest professionals. We are invested in the development and unique needs of our diverse employees and strive to create an inclusive environment that allows our employee to bring their full selves to work.
+
+Here's what you’ll achieve;
+
+Operating in a diverse and progressive commercial environment, you’ll maintain data quality within technology systems, including assistance with data migration, cleansing and other data-related activities
+Assist with development, maintenance and use of reports to extract relevant data from technology systems.
+Contribute to and champion data governance tools, operations, policies, and projects, participating in cross-functional working groups to develop, implement, maintain, evolve and enhance data governance practices, components and change management activities associated
+Build, develop and implement effective monitoring and training across a variety of data platforms to ensure data quality and compliance
+Develop and maintain inventory of the enterprise information maps, including main LOB systems of record and associated owners
+Partner with staff within CBRE and IT to develop data quality standards and maintain policies, standards and procedures to guide the usage of data across CBRE and provide oversight and support for 3rd party data sharing requests.
+
+About you:
+
+Guidance of 3-5 years of experience and strong knowledge of data management and governance concepts including policies, standards and procedures
+Bachelor’s degree in Computer Science, Data / Information Management, or relevant discipline
+Excellent interpersonal and communication skills, ability to influence at different levels of the organisation and promote cross functional collaboration
+Strong understanding of data governance best practices
+Effective analytical skills to examine data management environments and make recommendations on improvements
+Working knowledge of legal and regulatory concepts relevant to the data space for the commercial real estate sector within the Pacific region is preferred.
+
+What’s in it for you?
+
+People are the foundation upon which our success is built. Our company is diverse and so are the opportunities for professional and career development. Our people are free to expand their skills and knowledge to drive their careers and reach their full potential.
+
+We value flexibility and our people work in ways that meet their work/life commitments and support their wellbeing, development and performance. Our people benefit from a range of educational, financial, lifestyle, health and wellbeing benefits and programs, corporate partnerships and discounts, CBRE Cares Foundation, competitive leave offerings and paid volunteer days.
+
+Can we inspire you to join us?
+
+At CBRE, our unwavering commitment to diversity, equity & inclusion begins with you. We are strengthening our inclusive culture, so everyone feels safe, valued, & heard. Because when you belong, we all succeed.
+
+We look forward to hearing from you."
+22,"Join our Commodities Global Markets business in this unique role as an enthusiastic and innovative Analyst, looking to gain experience in data analysis and project co-ordination. You'll need to be confident with data and possess an eye for detail as well as take an innovative and strategic approach to your work.
+You'll be analysing business data, diagnosing pain points and creating solutions. You will work closely with Technology, Finance and Businesses stakeholders to determine requirements, assisting with implementation and testing changes.
+This is a unique opportunity to develop and build a network across multiple teams in Macquarie and will suit you if you are a self-starter who can manage a range of competing priorities and projects, with the ability to adapt to change in a dynamic environment.
+The Commodities Global Markets Data team ensures that the team are maintaining data appropriately with regards to completeness, quality and timeliness, as well as ensuring that Commodities Global Markets data is compliant with global regulations and internal policies. Your responsibilities will include:
+ensuring that data produced is complete, accurate, valid and relevant using system validation and exception / control reports and consistent with regulation and internal policies
+stakeholder communication and managing issues to resolution
+analysing data to identify issues, designing resolutions and writing requirements, and co-ordinating implementation of system and process changes
+completion of periodic reporting tasks, requiring interpretation of financial markets data
+reviewing current control framework to develop and implement robust controls
+working with a variety of teams to implement solutions to assure consistent data quality for all consumers of our data
+liaising with analysts and businesses to ensure that data is represented appropriately, including for complex derivatives.
+To be considered, you will:
+hold tertiary qualifications with a high level of academic achievement; PC literacy, particularly in Excel will be assumed
+possess a minimum of 1-2 years financial services or financial markets experience
+Understand of have knowledge financial products
+highly numerate with an ability to interrogate, interpret and draw conclusions from multiple data sources, and have an aptitude for identifying issues and determining solutions
+have a level of confidence to convey complex and technical requirements to both peer and senior colleagues
+consider yourself a strategic thinker who enjoys problem solving.
+If you are looking to grow your career within data and projects, please apply online today by submitting a covering letter and concise resume. Please note that applications without the supporting cover letter will not be progressed.
+
+
+Job no: CGM-962739
+Work type: Permanent - Full time
+Location: Sydney
+Category: Junior, Data & Analytics
+Group: Commodities and Global Markets
+Division: Central
+Recruiter: Verity Morison
+Opening Date: 27/1/2022"
+23,"At Allianz, we care for all the things that make you, you. For feeling like you belong. For a place where learning never stops. For growing new skills and opening up exciting possibilities. For your curiosity to thrive and help transform an industry. And when life twists, there's flex for balance and the support you need. So, come and share your ideas, give back and feel proud to be part of a company doing work that matters across climate change and mental health. Let's care for everyone's tomorrow so we can create a better future together.
+Looking for a role that allows you to take deep ownership of your work?
+Due to an internal move we have a rare opportunity to join our Financial Assurance team. Reporting into Manager, Financial Assurance the primary purpose of this role is to assist in the completion of financial reviews of intermediary remuneration agreements, and other strategic arrangements and business cases.
+
+You'll be responsible for:
+
+Assisting in the development and implementation of a valuation and review framework to assess the financial viability of proposed intermediary remuneration agreements, and other strategic arrangements and business cases.
+Working collaboratively with other departments to understand value drivers and to gain a strategic view of the proposed arrangements whilst also challenging these assumptions to ensure a robust valuation is presented.
+Assiting in preparing reports to present to senior management
+Assessing the impact of any risk indicators or issues as well as internal and external audit findings on financial reporting
+Working with the wider Finance team, 1st and 2nd line Risk and the business to assist in identifying key financial reporting risks and mapping these to key processes and controls. Escalating any gaps and future areas of risk to relevant stakeholders.
+Important to your success:
+
+Experience in an analyst, audit or risk and compliance role, for a complex, organisation.
+Demonstrated technical understanding of design and operating effectiveness of controls.
+Proven analytical and critical thinking capability to interpret a range of data, identify patterns, trends and links that inform judgements and solutions.
+Ability to interpret and analyse complex information, extract meaningful insights and evaluate options for decision making.
+Ability to plan and prioritise effectively organise tasks and manage competing resources and demands
+Excellent verbal and written communication skills, capable of communicating with audiences at all levels with clarity, impact and influence.
+What's on offer?
+
+
+What matters to you, matters to us too. Feel supported to have open, honest conversations about the flex you need so that you're able to take care of your personal wellbeing and deliver your best work.
+You'll be given the opportunity to make a meaningful impact on how we do things
+Learn through being supported and encouraged to take on new challenges that will help you to develop new skills
+Feel supported to give something a go - try different things, take on new responsibilities and explore opportunities
+Want to fast-track your career? We'll help you to find the right projects, opportunities and training to develop the capabilities you need to go further, faster
+Walk straight into stable, high-trust client relationships that will enable you to confidently deliver meaningful outcomes to your clients from day one
+About us
+Allianz is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us.
+Allianz is committed to enabling a culture where inclusion is embedded, everyone belongs and new ideas are embraced. We welcome and value talent from all backgrounds, experiences and ways of working Please advise us if you require any reasonable adjustments to fully participate in the recruitment process or perform the requirements of the role.
+Let's care for tomorrow. For a career with plenty of room to grow. Care to join us? www.allianz.com.au/careers
+We are a 2022 Circle Back Initiative Employer – we commit to respond to every applicant.
+#LIAllianz-AU"
+24,"Work Type : Full Time
+Location : QLD
+Permanent opportunity with great career prospects
+Develop skills working closely with an established analytics team
+Toowong location, Brisbane Inner City
+About us
+At Auto & General (A&G), we provide smarter products and solutions to safeguard our customers in their time of need. Our range of general insurance products protect customers on the road, at home and on holiday with various Car, Motorcycle, Home, Contents, and Pet Insurance products as well as Roadside Assistance.
+
+Our culture of ‘high performance with high integrity’ underpins our values and the way we interact with our customers, the community and each other. We’re excited about the future and we’re always on the lookout for talented, passionate individuals who can help us achieve our goal of being Australia’s best insurer! If this sounds like you, apply today.
+
+Visit our website to find out more.
+
+The Role:
+
+We are seeking a Senior Portfolio Insights Analyst to join our high performing Pricing Team. The purpose of this role will be to assist the Portfolio Monitoring Manager to enhance the monitoring capabilities and produce analytical insights. This position will be well suited to someone who likes a fast-paced environment with opportunities to work in a wide range of areas.
+
+Accountabilities:
+Building monitoring dashboards to enable early detection of emerging issues and to provide visibility on business performance;
+Building machine learning capabilities such as anomaly detection models into the monitoring suite;
+Maintaining, migrating and enhancing the reporting suite aimed at supporting Senior Management to effectively manage the relevant insurance portfolios;
+Identifying, reporting and analysing trends in the Domestic insurance portfolios, including e.g. volume, premium and profitability related indicators;
+Performing analytical investigations to generate actionable insights for Senior Management to make informed decisions;
+Working closely with the product owners and the wider business to develop effective measures to address emerging trends;
+Analysing and segmenting transactional data from the proprietary underwriting system(s) and policy database;
+Supporting the business with their quantitative analysis needs, e.g. review of underwriting question sets and processes;
+Driving continuous improvement of data quality, presentation, and insight generation, including embedding relevant metrics in regular reporting;
+Monitoring and reporting on the progress of pricing and product changes;
+Performing other relevant activities as requested from time to time to meet operational requirements.
+
+
+
+Qualifications, Experience and Skills
+Bachelor’s degree in Mathematics, Economics, Data Science, Actuarial Science, Information Management or Statistics or related field;
+A superior problem-solving ability with excellent attention to detail and accuracy;
+Ability to communicate effectively across all levels of the organisation;
+Proven experience in data analysis, including ability to:
+Work with large data from various sources through various platforms;
+Access and manipulate data quickly and efficiently;
+Work with both structured and unstructured datasets.
+Previous experience within General Insurance is highly advantageous;
+Working knowledge and understanding of short-tail insurance product(s), underwriting and rating methods – including drivers and levers of profitable growth;
+Intermediate to Advanced SAS and/or SQL;
+Intermediate to Advanced PowerBI, Excel, R and/or Python and, more generally, of the broader MS Office suite;
+Prior experience on Google Cloud Platform and IBM Cognos TM1 is advantageous although not essential;
+A “can do”, team focused attitude with the ability to work autonomously while maintaining focus.
+
+
+
+Our perks
+Location – Our office is conveniently based in Toowong Village shopping centre - a city fringe location with access to retail, restaurants, various parking options and public transport.
+Extra leave - Enjoy additional leave days on us! You’ll receive a paid ‘ME’ day and one paid volunteer leave day annually. Team members can also purchase up to two additional weeks of leave per year.
+Paid parental leave - We support our new parents with paid parental leave and other benefits.
+Workplace giving - If you’re passionate about a cause, then we are too – we offer workplace giving and we’ll dollar match your donations to registered charities.
+Development opportunities - We’re championing your development with internal programs and access to a wide range of online courses.
+Employee discounts - You’ll receive discounts on Budget Direct insurance products.
+Reward and recognition - We reward high performance with employee recognition, reward and incentive schemes.
+Onsite facilities - There’s excellent end-of-trip facilities on offer and private spaces for nursing mothers.
+Get social - Join our vibrant social and community activities including annual celebrations, family fun days and regular events across each of our sites
+
+
+
+Auto & General welcome and value diversity in the workplace
+
+*A note from Auto & General to recruitment agencies: We politely ask that you avoid making any approaches or sending any unsolicited resumes to our Recruitment Team or Hiring Leaders across our business. Auto & General is not responsible for any fees related to unsolicited resumes."
+25,"Join our Commodities Global Markets business in this unique role as an enthusiastic and innovative Analyst, looking to gain experience in data analysis and project co-ordination. You'll need to be confident with data and possess an eye for detail as well as take an innovative and strategic approach to your work.
+You'll be analysing business data, diagnosing pain points and creating solutions. You will work closely with Technology, Finance and Businesses stakeholders to determine requirements, assisting with implementation and testing changes.
+This is a unique opportunity to develop and build a network across multiple teams in Macquarie and will suit you if you are a self-starter who can manage a range of competing priorities and projects, with the ability to adapt to change in a dynamic environment.
+The Commodities Global Markets Data team ensures that the team are maintaining data appropriately with regards to completeness, quality and timeliness, as well as ensuring that Commodities Global Markets data is compliant with global regulations and internal policies. Your responsibilities will include:
+ensuring that data produced is complete, accurate, valid and relevant using system validation and exception / control reports and consistent with regulation and internal policies
+stakeholder communication and managing issues to resolution
+analysing data to identify issues, designing resolutions and writing requirements, and co-ordinating implementation of system and process changes
+completion of periodic reporting tasks, requiring interpretation of financial markets data
+reviewing current control framework to develop and implement robust controls
+working with a variety of teams to implement solutions to assure consistent data quality for all consumers of our data
+liaising with analysts and businesses to ensure that data is represented appropriately, including for complex derivatives.
+To be considered, you will:
+hold tertiary qualifications with a high level of academic achievement; PC literacy, particularly in Excel will be assumed
+possess a minimum of 1-2 years financial services or financial markets experience
+Understand of have knowledge financial products
+highly numerate with an ability to interrogate, interpret and draw conclusions from multiple data sources, and have an aptitude for identifying issues and determining solutions
+have a level of confidence to convey complex and technical requirements to both peer and senior colleagues
+consider yourself a strategic thinker who enjoys problem solving.
+If you are looking to grow your career within data and projects, please apply online today by submitting a covering letter and concise resume. Please note that applications without the supporting cover letter will not be progressed.
+
+
+Job no: CGM-962739
+Work type: Permanent - Full time
+Location: Sydney
+Category: Junior, Data & Analytics
+Group: Commodities and Global Markets
+Division: Central
+Recruiter: Verity Morison
+Opening Date: 27/1/2022"
+26,"At Allianz, we care for all the things that make you, you. For feeling like you belong. For a place where learning never stops. For growing new skills and opening up exciting possibilities. For your curiosity to thrive and help transform an industry. And when life twists, there's flex for balance and the support you need. So, come and share your ideas, give back and feel proud to be part of a company doing work that matters across climate change and mental health. Let's care for everyone's tomorrow so we can create a better future together.
+Looking for a role that allows you to take deep ownership of your work?
+Due to an internal move we have a rare opportunity to join our Financial Assurance team. Reporting into Manager, Financial Assurance the primary purpose of this role is to assist in the completion of financial reviews of intermediary remuneration agreements, and other strategic arrangements and business cases.
+
+You'll be responsible for:
+
+Assisting in the development and implementation of a valuation and review framework to assess the financial viability of proposed intermediary remuneration agreements, and other strategic arrangements and business cases.
+Working collaboratively with other departments to understand value drivers and to gain a strategic view of the proposed arrangements whilst also challenging these assumptions to ensure a robust valuation is presented.
+Assiting in preparing reports to present to senior management
+Assessing the impact of any risk indicators or issues as well as internal and external audit findings on financial reporting
+Working with the wider Finance team, 1st and 2nd line Risk and the business to assist in identifying key financial reporting risks and mapping these to key processes and controls. Escalating any gaps and future areas of risk to relevant stakeholders.
+Important to your success:
+
+Experience in an analyst, audit or risk and compliance role, for a complex, organisation.
+Demonstrated technical understanding of design and operating effectiveness of controls.
+Proven analytical and critical thinking capability to interpret a range of data, identify patterns, trends and links that inform judgements and solutions.
+Ability to interpret and analyse complex information, extract meaningful insights and evaluate options for decision making.
+Ability to plan and prioritise effectively organise tasks and manage competing resources and demands
+Excellent verbal and written communication skills, capable of communicating with audiences at all levels with clarity, impact and influence.
+What's on offer?
+
+
+What matters to you, matters to us too. Feel supported to have open, honest conversations about the flex you need so that you're able to take care of your personal wellbeing and deliver your best work.
+You'll be given the opportunity to make a meaningful impact on how we do things
+Learn through being supported and encouraged to take on new challenges that will help you to develop new skills
+Feel supported to give something a go - try different things, take on new responsibilities and explore opportunities
+Want to fast-track your career? We'll help you to find the right projects, opportunities and training to develop the capabilities you need to go further, faster
+Walk straight into stable, high-trust client relationships that will enable you to confidently deliver meaningful outcomes to your clients from day one
+About us
+Allianz is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us.
+Allianz is committed to enabling a culture where inclusion is embedded, everyone belongs and new ideas are embraced. We welcome and value talent from all backgrounds, experiences and ways of working Please advise us if you require any reasonable adjustments to fully participate in the recruitment process or perform the requirements of the role.
+Let's care for tomorrow. For a career with plenty of room to grow. Care to join us? www.allianz.com.au/careers
+We are a 2022 Circle Back Initiative Employer – we commit to respond to every applicant.
+#LIAllianz-AU"
+27,"Work Type : Full Time
+Location : QLD
+Permanent opportunity with great career prospects
+Develop skills working closely with an established analytics team
+Toowong location, Brisbane Inner City
+About us
+At Auto & General (A&G), we provide smarter products and solutions to safeguard our customers in their time of need. Our range of general insurance products protect customers on the road, at home and on holiday with various Car, Motorcycle, Home, Contents, and Pet Insurance products as well as Roadside Assistance.
+
+Our culture of ‘high performance with high integrity’ underpins our values and the way we interact with our customers, the community and each other. We’re excited about the future and we’re always on the lookout for talented, passionate individuals who can help us achieve our goal of being Australia’s best insurer! If this sounds like you, apply today.
+
+Visit our website to find out more.
+
+The Role:
+
+We are seeking a Senior Portfolio Insights Analyst to join our high performing Pricing Team. The purpose of this role will be to assist the Portfolio Monitoring Manager to enhance the monitoring capabilities and produce analytical insights. This position will be well suited to someone who likes a fast-paced environment with opportunities to work in a wide range of areas.
+
+Accountabilities:
+Building monitoring dashboards to enable early detection of emerging issues and to provide visibility on business performance;
+Building machine learning capabilities such as anomaly detection models into the monitoring suite;
+Maintaining, migrating and enhancing the reporting suite aimed at supporting Senior Management to effectively manage the relevant insurance portfolios;
+Identifying, reporting and analysing trends in the Domestic insurance portfolios, including e.g. volume, premium and profitability related indicators;
+Performing analytical investigations to generate actionable insights for Senior Management to make informed decisions;
+Working closely with the product owners and the wider business to develop effective measures to address emerging trends;
+Analysing and segmenting transactional data from the proprietary underwriting system(s) and policy database;
+Supporting the business with their quantitative analysis needs, e.g. review of underwriting question sets and processes;
+Driving continuous improvement of data quality, presentation, and insight generation, including embedding relevant metrics in regular reporting;
+Monitoring and reporting on the progress of pricing and product changes;
+Performing other relevant activities as requested from time to time to meet operational requirements.
+
+
+
+Qualifications, Experience and Skills
+Bachelor’s degree in Mathematics, Economics, Data Science, Actuarial Science, Information Management or Statistics or related field;
+A superior problem-solving ability with excellent attention to detail and accuracy;
+Ability to communicate effectively across all levels of the organisation;
+Proven experience in data analysis, including ability to:
+Work with large data from various sources through various platforms;
+Access and manipulate data quickly and efficiently;
+Work with both structured and unstructured datasets.
+Previous experience within General Insurance is highly advantageous;
+Working knowledge and understanding of short-tail insurance product(s), underwriting and rating methods – including drivers and levers of profitable growth;
+Intermediate to Advanced SAS and/or SQL;
+Intermediate to Advanced PowerBI, Excel, R and/or Python and, more generally, of the broader MS Office suite;
+Prior experience on Google Cloud Platform and IBM Cognos TM1 is advantageous although not essential;
+A “can do”, team focused attitude with the ability to work autonomously while maintaining focus.
+
+
+
+Our perks
+Location – Our office is conveniently based in Toowong Village shopping centre - a city fringe location with access to retail, restaurants, various parking options and public transport.
+Extra leave - Enjoy additional leave days on us! You’ll receive a paid ‘ME’ day and one paid volunteer leave day annually. Team members can also purchase up to two additional weeks of leave per year.
+Paid parental leave - We support our new parents with paid parental leave and other benefits.
+Workplace giving - If you’re passionate about a cause, then we are too – we offer workplace giving and we’ll dollar match your donations to registered charities.
+Development opportunities - We’re championing your development with internal programs and access to a wide range of online courses.
+Employee discounts - You’ll receive discounts on Budget Direct insurance products.
+Reward and recognition - We reward high performance with employee recognition, reward and incentive schemes.
+Onsite facilities - There’s excellent end-of-trip facilities on offer and private spaces for nursing mothers.
+Get social - Join our vibrant social and community activities including annual celebrations, family fun days and regular events across each of our sites
+
+
+
+Auto & General welcome and value diversity in the workplace
+
+*A note from Auto & General to recruitment agencies: We politely ask that you avoid making any approaches or sending any unsolicited resumes to our Recruitment Team or Hiring Leaders across our business. Auto & General is not responsible for any fees related to unsolicited resumes."
+28,"Join a Regional Market Leader
+Fulltime, Professional Growth Opportunity
+Blue-chip & Government, Complex, Exciting Projects
+
+
+ADELAIDE
+
+Dialog (Dialog Information Technology) is a diverse organisation with over 1200 employees throughout Australia, providing a full range of technology solutions, and services to customers in private and public sectors.
+Dialog’s consulting specialists help organisations get the best from their information technology investment – from short consultancy assignments through to major systems integration, application outsourcing or development projects.
+Earlier this year we announced that we joined the NCS Group of companies (wholly owned by Singtel) which significantly builds out our scale and opportunities for our consultants to work in exciting programs that can and will define your career.
+Our mission is simple and clear - we advance our clients corporate objectives and improve their business operations through the implementation of cost-effective IT solutions.
+
+Work with the best for the best:
+We are seeking accomplished Business Analysts to work closely with our clients to help them deliver complex programmes of work.
+You will have brilliant communication skills, have a deeply inquiring mind that allows you to develop domain knowledge quickly. You will be fascinated by what is possible and how problems are solved with technology, and you will be proactive in suggesting suitable solutions for an optimal outcome for our customers.
+In your tool kit you may have a technical background which could allow you to have a deeper solutioning conversation, or you come in from a pre business play; either way you will be a valuable member of our team with your curiosity and energised approach to helping our customers succeed.
+Your path to success starts with you:
+To be successful with us, you will have:
+6 + years of experience in large scale transformational programs with as focus on IaaS, PaaS and SaaS as a Business/Systems Analyst
+Degree qualification in Commerce, Business. IT or equivalent experience
+Strong Analytical and data modelling skills.
+Intermediate excel skills (V Lookups, Pivot tables)
+Power BI experience / knowledge (desirable)
+Skilled in data story telling
+Exceptional requirements gathering and documentation skills
+Experience with use cases / user stories / wireframes / user navigation
+Experience implementing web-based applications
+Excellent stakeholder management skills and ability to resolve problems with conflicting needs / requirements from a diverse group
+Experience in running requirements workshops / interviews
+Ability to deal with complex data requirements
+The ability to bridge business and technology, managing the relationships between key stakeholders and carefully navigating competing requirements to a successful outcome
+A natural ability to influence and run workshops with multiple stakeholders and interest groups
+The ability to be the trusted advisor and bridge between the projects and the business
+Become part of our Vision:
+We continually aim to create an employee experience that embraces diversity, inclusion and builds a community and sense of belonging.
+
+Dialog's services range from strategic IT consulting through full life cycle application development and managed application services to long-term operational support.
+
+Dialog's subsidiary companies provide complementary products and specialist services.
+
+Established in 1979, Dialog has delivered innovative solutions to clients across all industries including all levels of government."
+29,"About the role
+The purpose of this role is to deliver fit-for-purpose BI solutions to support our growing operations. Utilising your effective engagement and communication skills, you will work closely with business partners at all levels to understand their data visualisation and solution needs, then source, analyse and transform their data into insights that drive business value. This may include automated workflows, automated forms, apps and Power BI dashboards.
+Core Responsibilities
+Support the daily, and long-term strategic needs of the business by providing timely reporting and data support.
+Provide actionable insights through analytics.
+Work closely with the wider business on the development of tools and processes to drive data-driven decisions.
+identify gaps, trends and inefficiencies impacting business costs and processes.
+Pivot between different initiatives quickly to support projects as needed while being able to work at a micro and macro level.
+Continuous focus on improving relevant operational performance and productivity.
+Educational and Technical Qualifications
+Completed, or working towards, Bachelor degree in Information Systems, Computer Science or Software Engineering
+MSDBA (MS SQL Server) or equivalent
+Technical Skills, Competencies and Experience
+Knowledge and 2-3 years' experience of relational database technology, specifically Microsoft SQL (2008/2016).
+Machine learning experience desirable.
+Dynamics 365 / Microsoft Dataverse desirable.
+A high-level exposure to all elements of the MS BI Stack (particularly Power BI, Power Automate, Forms Pro, Power Apps and SharePoint).
+Proven ability to identify strategic needs, leading to sound business recommendations
+Skills in presenting complex technical information in a way that all stakeholders (peers, management) will understand
+Ability to document the technical details of your work clearly and concisely
+Detailed Power BI experience implementing, monitoring and maintaining solutions
+In-depth knowledge of SQL, SSIS and SSRS
+ITIL / Change Management understanding
+Solid understanding of data structures and ability to blend disparate data sources
+Experience using relational database systems, tables, schema, query tools for data interrogation, extraction and presentation
+Excellent process management and problem-solving skills
+Experience working in a fluid, high pressure environment.
+Location: Osborne Park
+To apply for this role, click on the ""APPLY"" button below, complete the online application form and submit a cover letter and resume as one document. Alternatively, please visit our website for all our current and upcoming vacancies on www.emecogroup.com/
+If you have any questions in relation to this role, please contact Ashleigh, HR Advisor on 0429 113 069.
+Job Type: Full-time"
+30,"Senior Data Analytics Specialist
+Permanent role at an organisation with an award-winning culture that values diversity and inclusion
+Hybrid working environment with flexibility options
+About Us
+
+
+Yarra Valley Water provides essential water supply and sanitation services to over 2 million people who live and work in the northern and eastern suburbs of Melbourne. We see a bright future that starts with people. Our award-winning culture fosters an inclusive, collaborative work environment and provides the development opportunities, flexibility and support that enable high levels of achievement and personal satisfaction.
+Our innovative and exciting Digital Enablement Plan supports the delivery of our 2030 Strategy and will transform us into a modern, adaptive, and scalable digital utility with user experience at the centre. This is a perfect time to join us as we move into the delivery phase and put in place a range of technologies, both IT and OT, including major platforms such as Salesforce, Arwin and ServiceNow, field - based sensors including digital meters and the analytics to leverage the value of the data they return. These new technologies combined with our transition to Cloud Services will transform the way we work and the way our customers and community experience our services.
+The role
+Reporting to Enterprise data and analytics Lead under our ICT Strategy and Portfolio. The Senior Data Analytics Specialist will be responsible for developing, implementing, and supporting the Data Warehouse, Business Intelligence, and Advanced Analytics solutions that integrate with various enterprise applications to provide insights with information to improve decision making.
+Your responsibilities will include:
+Work in close collaboration with YVW stakeholders and technical teams to architect, design, implement, test and manage leading data and analytics solutions
+Support and promote adherence to IM Governance principles and policies when designing solutions
+Document business requirements using YVW Project Governance Methodology tools, templates, and guidelines
+Assist process owners with developing and implementing process dashboards and top-down analytics and sundry advice.
+Provide input into the ongoing design, development, and deployment of business intelligence and analytical solutions
+Design and build best-in-class solutions that leverage the features and functionality offered by Business Intelligence technologies
+Ensure the delivery of outcomes is compliant with changing organizational and strategic goals
+Manage the delivery of all phases linking to Strategy and Architecture of Business Intelligence, Advanced Analytics, and Data Warehouse
+Manage issues and resolve the conflict between projects (within control) and escalate where required
+Manage the performance of the data warehouse and interfaces to core systems
+Patch Enterprise Analytics software as required by policy
+Provide advanced analytical support and level 3 support as required
+Manage release and deployments into production
+Facilitate technical design workshops and playback
+Provide BAU assistance and support for SMEs with report writing and analytics
+Work with DBA's to achieve the required infrastructure performance, disaster recovery, backup, and restore solutions
+Develop and maintain close working relationships with internal and external customers and suppliers
+Identify and schedule resources to ensure work is effectively and efficiently undertaken
+Develop and maintain relationships with Process Owners across all management levels
+Skills and Experience
+
+The successful candidate will be able to demonstrate the following:
+Tertiary Qualifications in an IT-related discipline
+Demonstrated data architecture and dimensional data modelling experience
+Experience delivering Business Intelligence and reporting analytics solutions, database Strong technologies, programming, and technical architecture
+Experience working with Oracle Warehouse, ETL Tools like ODI, Informatica etc
+Strong experience with Cloud Technologies (Azure Blob Storage, Azure SQL Data Warehouse, Azure DocumentDB, Snowflake or similar cloud technologies Azure Data
+Lake Store , Snowflake or similar cloud technologies)
+Knowledge of Agile Methodologies, Scrum, Kanban, XP, Scaled Agile Framework (SAFe)
+Broad experience across a set of data stores
+
+The Benefits
+Joining an employer of choice with an award-winning culture
+Home office set up an allowance
+Flexible working arrangements considered
+Generous personal leave entitlements
+Training and development opportunities
+Onsite canteen and fitness group
+Free flu vaccinations
+Social events, skill-sharing, and networking opportunities
+For further information please click HERE to review the position description
+How to apply
+Applications should include a supporting Cover Letter and Resume.
+Closing date: 26 May 2022
+Yarra Valley Water is committed to creating a diverse and inclusive workplace, and strongly encourages applications from all types of people, from all walks of life. We believe diversity of thinking fosters innovation and delivers better outcomes for our customers, and we value a workforce that’s a match for our diverse community.
+This position is available for Yarra Valley Water employees and external applicants.
+Successful applicants must be eligible to work in Australia and agree to provide information for pre-employment checks if required for the position (which may include police records checks)."
+31,"We're a passionate team of brilliant achievers, and together we're using technology to take the small business finance industry next level. Our mission is to keep small businesses moving - with smart cash flow solutions right when they need them. Supporting them through ups and downs. Making their lives easier. Helping them Prosper.
+The role
+Prospa is a growing business looking for someone with a strong econometric background who can apply their knowledge in a small business lending context. As a Risk Analyst, you'll build and maintain models and risk settings within the risk analytics scope, behavioural models & forecast models.
+You'll be presented with a business problem, research the best solution, ensure the model is fit for purpose and present back to a variety of stakeholders.
+What you will be doing
+Build, maintain and monitor models as well as credit risk settings
+Identify latest economic policy changes and understand how these impact the small business sector and consequently Prospa's portfolio/ models
+Recommend strategies for deployment into the Prospa Credit Decision Engine and portfolio management
+Present analysis and solutions to variety of stakeholders
+Engage with the wider Risk team to develop their experience and improve knowledge share across the team
+What you'll need to succeed
+Experience in econometric modelling
+Passionate about unsecured SME / personal lending
+Able to analyse economic trends to generate insights for portfolio management
+You work independently, generate ideas, and challenge the status quo
+Able to communicate findings to a variety of stakeholders
+Experience with Databricks, R, Python, SAS, MATLAB is highly advantageous – an interest in learning new technologies is essential
+Don't let a confidence gap get in the way of submitting your application. We'd love to hear from you and see if this could be a great match.
+What we offer
+Highly competitive incentive scheme
+Flexible ways of working
+Seasonal programs (think free days off, themed events, swag, massages, coffee carts…)
+Team and company wide social events
+Volunteer leave & paid parental leave
+Career development opportunities & study assistance
+A chance to be a part of one of Australia's fastest scaling tech organisations
+Why Prospa?
+We embrace diversity in our people and our thinking and provide a collaborative, inclusive, innovative and respectful environment. We celebrate who you are and actively provide our employees the same great experience we provide our customers.
+It's super exciting every day. Always moving. Always something new around the corner. And we've only just cracked the surface.
+Open the door. Feel the buzz. Want in?
+#LI-MK"
+32,"As a delivery-oriented Business Analyst or Senior Business Analyst, with strong data management experience, you will work with stakeholders to understand business processes and data flows. This may include metadata management for use of business glossary, data linage, data dictionaries, and data governance tools. You should be able to translate technical concepts into business concepts that non-technical people can easily understand.
+In this role, you will be required to work across multiple business groups and build and maintain strong relationships. You will use your ability to influence and support a diverse set of stakeholder Groups to contribute to the completion of the data deliverables within a project/change initiative. This role will allow you to expand your experience in understanding frameworks and capabilities and applying them to new systems and scenarios in a way that you can communicate to the business and embed practices with Data Owners and Data Stewards.
+Day to day, you will be responsible for:
+Use requirement gathering skills to build the understanding of the end-to-end business processes in scope of the change, concepts, terms & definitions, and high-level architectural design
+Work with the Group data team to define the critical data in preparation for presentation and approval at internal Data Working Groups and Councils. Also facilitate change forums related to data, ensuring a robust process is set up and data is governed and fit for purpose for changes across systems and databases
+Plan and execute initiatives to implement data management practices for good data quality outcomes including reference data and master data across the data landscape. This include identifying the data in scope of the project and critical data points by making use of Group data guidelines and use definitions and technical specification skills to ensure that the right data will be captured within the expected format/structure to ensure quality data.
+Analyze and Identify Data Quality issues with the data in scope and facilitate the determination of issue impact, root cause and resolution options; work with Product Owners, Systems teams, Business Operations, and Project Teams to deliver good data management practices into project delivery, supporting changes to processes and behaviors.
+Engage a diverse set of business stakeholders to assist you with capturing metadata, business data lineage, data ownership across the data lifecycle, business & Data Quality rules and establishing data quality measuring and monitoring.
+For data migration initiatives or reporting transformation, you will be required to complete/validate source to target mapping, capture whether data needs to be cleansed, constructed, or transformed, obtain business approval of the mapping document, conduct data impact assessments and gap analysis on legacy systems, reports, or change initiatives to understand data and reporting requirements.
+What skills will you use?
+To be successful in this role, you will bring with you 5+ years Business Analyst experience working with Data, data warehousing, BI, data migration or analytics projects.
+Strong delivery skills gained through project experience, in both planning and delivery capacity
+Strong communication across a broad set of business and technology stakeholders
+Ability to translate frameworks and operating models into implementation
+Good understanding of data quality, reference data, master data, metadata management concepts and real world application
+Experience with data mapping and tracing data lineage
+Experience defining data quality rules or requirements / business rules / data controls
+Experience across Salesforce (CRM, Workflow, Transaction management), Loan or trade systems, data lakes and data warehousing or data governance/meta data management tools (Axiom, Collibra, ICG) will be highly regarded.
+If this sounds like you, please apply today or reach out to Maddy Wilson to learn more at maddy.wilson@macquarie.com
+About Macquarie Capital
+Macquarie Capital offers global capability in M&A Advisory, Debt and Equity Capital Markets, Principal Finance, and Equity Trading and Research underpinned by deep specialist expertise across a range of sectors. Our people are empowered to think innovatively to address client challenges and originate opportunities, thinking beyond individual transactions to become a trusted adviser and partner over the long haul. From origination to execution, our unique combination of ideas, capital and expertise is transforming opportunity into reality for our clients and partners around the world.
+With staff in 35 offices transacting across 31 countries, Macquarie Capital is a truly global business. A role in the team will expose you to a dynamic working environment and the opportunity to contribute to high-profile transactions whilst working in a business with the best people in the industry.
+Our commitment to Diversity and Inclusion
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+
+
+About Macquarie
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 17,000+ employees and offices in 33 markets around the world, we’re a truly global organisation.
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+
+Job no: MacCap-961814
+Work type: Maximum term, Permanent - Full time
+Location: Sydney
+Category: Mid-level, Data & Analytics
+Group: Macquarie Capital
+Division: Central
+Recruiter: Maddy Wilson
+Opening Date: 14/12/2021"
+33,"Company Description
+
+We are a customer-obsessed, “one stop shop” for all things data-related. We are deliberately narrow in our focus areas but we go deep in each of them. We provide solutions, services and training in the data strategy, data governance, data security, data management, data classification, data wrangling, data lake, data analytics, data visualisation, artificial intelligence, machine learning and IoT areas. Our solutions and services help transform customer organisations by teaching them how to turn their data into insight
+We build on AWS, using the latest AWS services, best practices and reference architectures. We deliberately focus on large public sector customers that are data-heavy but insight-light – federal & state government departments, universities, public sector agencies, public health organisations, and public utilities.
+We are an AWS Advanced Consulting Partner and an AWS Public Sector Partner, working towards our Data & Analytics and Government competencies. We are also a registered technology supplier to the Federal, New South Wales, Victorian and Western Australian governments and we have a Master Services Agreement in place with AWS Professional Services.
+We are a customer-obsessed, “one stop shop” for all things data-related. We are deliberately narrow in our focus areas but we go deep in each of them. We provide solutions, services and training in the data strategy, data governance, data security, data management, data classification, data wrangling, data lake, data analytics, data visualisation, artificial intelligence, machine learning and IoT areas. Our solutions and services help transform customer organisations by teaching them how to turn their data into insight!
+We build on AWS, using the latest AWS services, best practices and reference architectures. We deliberately focus on large public sector customers that are data-heavy but insight-light – federal & state government departments, universities, public sector agencies, public health organisations, and public utilities.
+We are an AWS Advanced Consulting Partner and an AWS Public Sector Partner, working towards our Data & Analytics and Government competencies. We are also a registered technology supplier to the Federal, New South Wales, Victorian and Western Australian governments and we have a Master Services Agreement in place with AWS Professional Services.
+
+
+Job Description
+
+Your impact
+As a Data Analyst, you will play a key role in working with customers to understand their business requirements, map these to their data capabilities, liaise with our internal Data Engineers to design and build elegant solutions, then partner with our customers to deploy those solutions in a way that allows them to turn data into insight. You will have 2-3 years’ experience working as a Data Analyst (or similar role) on data-related solutions, preferably using AWS, and will be comfortable working with business analysts, data visualisers, data engineers and data scientists, to enable customers to solve their data-related challenges.
+You will relish the opportunity to innovate, evolve and challenge existing assumptions and to develop the data-related requirements that feed into the design of solutions that solve real-world problems for customers. Your experience with large-scale data challenges and ability to analyse them as input into reliable, scalable cloud-based solutions, will see you thriving in this role!
+Expectations
+Enjoy honing your data-related analysis skills and developing new ones, so you can make strong contributions to solution discussions.
+Regularly take part in further education and training to help you hone and extend your data analysis skills.
+Have a demonstrated ability to think strategically about solutions to business, product, and technical challenges.
+Possess an innate awareness of technology trends and how they impact the way businesses consume IT.
+Strong Analytics skills to collect, analyze and generate insight using data.
+Have a basic understanding of IT security and governance including security standards, access policies, and data classification schema.
+Love what you do and instinctively know how to make work fun.
+Be dynamic, creative, and willing to take on challenges that have the potential to make a big impact.
+Relish a ground floor opportunity to work in a small, agile, friendly startup environment.
+A Graduate degree (or Masters) in a data or technology-related discipline is preferred.
+An AWS Associate Solutions Architect certification is a bonus.
+
+
+Qualifications
+
+Technical Requirements:
+2+ years of:
+o Hands on, practical experience, in and around data-related solutions
+o AWS experience
+o A basic understanding of software development tools and methodologies
+o Data analysis experience
+o Experience producing quality documentation and written communications
+Familiarity with DevOps tools such as Bitbucket, Bamboo, Jenkins or Ansible
+Some experience with both writing and interpreting SQL queries.
+Experience building reports and dashboards using BI tools such as Tableau, PowerBI or Amazon QuickSight.
+A basic understanding of Infrastructure as Code, especially AWS Cloudformation.
+Some programming skills in one or more of the following languages: Python, Java, Node.js, .Net, PHP.
+A basic understanding of data ingestion and transformation pipelines.
+A basic understanding of fundamental data concepts including databases, data schema, data classification, data security, data governance, data analysis, data transformation, data engineering and data science.
+A basic understanding of fundamental networking concepts.
+
+Additional Information
+
+We’re passionate about the technical community we are a part of, and believe in contributing to open source and AWS initiatives
+We care about climate change and are always looking at ways to reduce our carbon footprint
+We support and contribute to a different cause each quarter
+We’re committed to developing your career with customised individual growth and development plans
+We’re committed to ensuring all our staff feel welcome, included and respected every day they work for The Data Foundry"
+34,"Effective workforce planning relies on accurate insights, analysis, intelligence and close collaboration in team environments to achieve sound forecasts of workload/demand and FTE required to service our customers and provide FTE by partner for our communities and other channels in our Global Contact Centers to meet our customer and Budget targets. Early and regular engagement is critical to mitigate any FTE, workforce risk/shortfalls, ensuring forecasted demand and workforce models are understood, agreed and endorsed.
+
+
+This role will heavily contribute to the performance and success of Demand Forecasting for Customer Success across various channels. The impact of this role will be measured on demand forecast variance, partner agreement to FTE, SLA, cost implications to budget, induction to attrition and staffing to forecasted demand within each channel
+
+
+You’ll be responsible for
+Collating in-depth insights, analysis and intelligence that supports the Demand Forecasting process across various channels and lock process
+Maintaining close collaboration with broad stakeholders including the Transformation team, insights tribes, channel leads, initiatives owners, onshore & offshore partners and Senior Demand Analysts.
+Reporting, workforce analytics and statistics to create a data driven intelligence and recommendations relating to Demand forecast and workforce impacts
+Using Tableau, CXone, CCAI, Live Person, reporting, workforce analytics and statistics to create a data driven intelligence and recommendations relating to Demand forecast and workforce impacts
+
+
+About you, you will have
+5+ years of Advanced Workforce Management & Planning (preferably in multiskilled environment)
+Tableau or Power BI reports model validation Advanced Reporting and analytical experience
+Highly developed analytical, problem solving and research skills
+Strong communication skills
+Self-managing, pro-active, good time management skills
+emotional intelligence to build strong collaborative relationships
+
+
+As a provider of essential services across Australia, Optus has a critical role in the community through keeping our customers connected to the people they love and the things that matter. It is also our priority to ensure we provide our amazing people and our customers with a healthy and safe workplace environment. In light of the significant risks posed by COVID-19, Optus expects all workers to be fully vaccinated against COVID-19, and will require vaccination for certain roles as well as access to Optus workplaces. Please speak to us if you have any questions about this policy or how it impacts you, including any concerns you might have about meeting this requirement.
+
+
+Optus is a place where we let you do you. Whether you’ll be working in our corporate offices or in a retail store, we're a highly collaborative workplace, and offer a range of perks such as:
+A competitive salary
+Discounts on products and services
+Ongoing training, mentoring and development opportunities
+Up to five days of Volunteer Leave per year
+Blended Ways of Working
+
+
+We understand that flexibility means different things to different people. We're proud to offer a variety of options to work in different ways, such as our Blended Ways of Working and job share. Our Blended Ways of Working lets our people work across home and our offices. Please talk to us about how we can make this role work for you.
+
+
+Curious about our culture? Go behind the scenes with our people by searching #OptusLife on LinkedIn.
+
+
+Sound like the perfect role for you? Get in touch with us!"
+35,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+EY DnA is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors. You will shape, change, and deliver a data management roadmap to improve and enhance the value and re-usability of data, through modern and evolving data management practices and frameworks.
+
+As a Senior Data Scientist, you will support our clients in defining and implementing a data journey aligned with their strategic objectives. You will apply your broad data expertise though a mix coaching others, providing strategic advice and performing hands-on analysis.
+
+Responsibilities include but not limited to:
+Partnering with business leaders and coaching data teams to uplift data capability
+Identifying, determining feasibility and shaping data use cases
+Determining appropriate analytical, statistical or machine learning approaches to create value
+Performing analysis and creating prototypes
+Communicating and influencing outcomes based on data
+Providing requirements to, and partnering with, technology/data engineering teams to productionise data prototypes
+
+To be successful in this role you will have experience in the following:
+Interpreting, telling stories and creating value with data
+Curious and business outcome focused with an ability to quickly understand a business area, break down a complex problem and work out how to solve it
+Strong collaboration skills having worked with business stakeholders at different levels of seniority and technical proficiency
+Comfortable working across a wide range of data sets and systems
+Broad understanding of, but not necessarily expertise in, data strategy, data visualisation, data architecture and what is involved in bringing data products into production
+Deep practical expertise applying statistical knowledge and machine learning to solve business problems through manipulating and analysing data with SQL and Python or R
+Proven track record of overseeing multiple data science projects at all stages, from idea generation to objectives formulation to implementation and deliverables
+
+What we offer
+
+A tech career @ EY means working with 40,000 fellow technologists who are creating cutting edge applications in blockchain, AI, cloud, analytics, robotics and cyber, harnessing tech to power the human enterprise and build a more equitable, sustainable world. We offer world class training and a free Tech MBA to all our people.
+
+Globally at EY, we are committed to offer:
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+The exceptional EY experience. It’s yours to build.
+
+The preferred applicant will be subject to employment screening by EY or by their external third party provider. Regarding this role, the minimum salary is $90,000 including 10% superannuation.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+36,"We want you to make an impact. You can be part of a growing and innovative organization, with the ability to influence the people, customer culture and practices of Great Southern Bank to keep us at the top of our game. We appreciate outside the box thinkers, people who challenge the status quo, and help us to be better, for you and for our customers!
+
+A little bit about us
+
+For over 75 years, we’ve been putting our customers first, and today we look after the financial needs of more than 380,000 Australians. We have recently changed our name from CUA to Great Southern Bank but we remain customer-owned and firmly focused on helping all Australians own their own homes.
+
+We’re ambitious and as we continue to grow, we are investing significantly in technology, products, and people. We have a culture that's fun, approachable and supportive - allowing our team members to be their best every day, whether that's at work or at home.
+
+We're hugely excited about the journey ahead and are looking for talented and enthusiastic people who want to be part of a winning team. If you are motivated, energetic and dedicated to helping our customers achieve the great Australian dream, we want to hear from you.
+
+A little bit about the role
+
+At Great Southern Bank we’re a customer-obsessed bunch. Located in Brisbane and reporting to the Senior Manager, Sales Enablement you play a critical role in the Sales division. You are a key liaison between the Sales and the Enterprise Data and Analytics Office. As the Reporting Analyst you are accountable for the development of reporting and analytics, measuring performance across all sales channels.
+
+You will use internal data sources to produce consolidated reporting, detailed insights, analysis and trending information on sales performance. You will be providing recommendations and specialist advice to leaders regarding the performance of sales channels, sales activities, target setting, or other relevant activities.
+
+Your key responsibilities will include:
+
+
+Accountable for the development of reporting and analytics measuring performance across all sales channels
+Produce consolidated reporting and provide detailed insights, analysis and trending information on sales performance
+Provide recommendations and specialist advice to leaders regarding the performance of sales channels, sales activities, target setting, or other relevant activities
+You are a key contributor to our Sales team and can demonstrate critical thinking and influence across the broader Great Southern Bank
+
+A little bit about you
+
+
+You are passionate about data and its ability to inform business decisions and practices
+You know how to find data and don't mind getting your hands dirty in databases, spreadsheets, BI and analytical tools
+Can communicate your analysis and findings to a wide range of stakeholders within the business
+You have demonstrated experience in analysing, interpreting, diagnosing and presenting data to recommend relevant conclusions
+-Proficient with SAS - Enterprise Guide, SAS Olap Cubes, SAS Web Report Studio,SAS VA
+
+Similarly, experienced in SSIS, SSRS, Power BI and other visualisation tools (Tableau etc)
+
+What’s in it for you?
+
+We believe that investing in our people is central to upholding our great culture. To help us achieve this, beyond our sales incentive program and extensive range of training and development programs, we have a variety of employee benefits that you can access from discounted financial and insurance product, employee benefits covering, health, wellness and lifestyle options including unique leave options. Read more about these exciting benefits on our careers site!
+
+Questions? Please contact Scott from our Careers Team on scott.chamberlain@gsb.com.au
+
+At Great Southern Bank, we’re committed to building a strong, inclusive and diverse workplace, where people feel a sense of belonging, are valued, connected and respected. We value diverse backgrounds, cultures, abilities, ideas and experiences; recognising the benefits they bring to our work, our communities and the way we help our customers. We support and promote an inclusive culture through flexible ways of working, collaboration, fair and equitably decision making that empowers our people to be at their best every day."
+37,"Job Details
+Reference #
+41621
+
+
+Location(s)
+Parramatta
+
+
+Expertise
+Information Technology
+
+
+Job level(s)
+Experienced
+
+
+Work type(s)
+Permanent
+
+
+More details (document)
+
+
+Joining the Sime Darby group of companies means you are part of a global group that employs more than 20,000 people in 18 countries. Across Australia and New Zealand, the Sime Darby Motors name is synonymous with quality commercial and private vehicles as well as premium transport and materials handling equipment.
+An exciting opportunity has become available for a Data and Business Intelligence Specialist to join our diverse, agile team. We are looking for a knowledgeable candidate to drive our data-first culture through design, implementation, and data technology adoption.
+Your key responsibilities will include but are not limited to the following:
+Understand Sime Darby Motor's overall data estate, IT/business priorities and measures of success to design cloud-based data architectures using your deep, technical knowledge.
+Lead design workshops and develop rapid prototypes with business stakeholders to realise the business analytics objectives
+Design and develop the data warehouse and integration
+Hands-on management of the SQL server and databases
+Deliver key Power BI reports and dashboards.
+To be successful in this role you must offer the following:
+5+ year's experience and a proven track record as a data analyst, business intelligence consultant (or similar roles)
+Have a BS/BA degree, or equivalent work experience
+Demonstrate passion and skills aligned with business insights, data analysis, and data visualisation
+Practical analytical skills to synthesis multiple complex data sets into easy to consume and actionable business insights.
+Strong design experience in Power BI report and advanced Excel skills
+We want to give you the opportunity to grow with us and in return we offer:
+A supportive team environment with a stable and internationally recognised organisation.
+Access to an employee benefits account including discounts on groceries, electronics and more!
+Ongoing development opportunities."
+38,"Organisation/Entity: Transport For NSW
+Job Category: Projects
+Job Location: North Sydney, NSW, AU, 2060
+Job Ref No: 66168
+Employment Type: Permanent Full-Time
+Salary Range: $145203.0-$154934.0
+About us
+
+
+Transport for NSW keeps our State moving by providing safe, integrated and efficient transport systems. We put our customers at the centre of everything we do – and we do a lot. We connect people, communities and industry and manage how they use our road, rail and maritime networks and services, and even active modes like walking and cycling. The work we do connects the journeys you take every day.
+
+
+We are a state government organisation made up of more than 28,000 people and we're in the middle of delivering the largest transport infrastructure program in Australia's history. We work across planning, policy and procurement, harnessing data and technology to develop smarter and more adaptive transport solutions.
+
+
+That means job opportunities in metropolitan and regional areas right across NSW – you have the chance to be part of creating a lasting legacy that will benefit generations to come.
+
+
+About the team
+
+
+The Infrastructure and Place division is in the process of delivering an ambitious and once-in-a generation $28 billion program of public infrastructure works which will ease congestion, improve safety, create new places and connect communities for generations to come. This position is based on the Sydney Gateway project that will greatly improve the way we travel to Sydney Airport and Port Botany. It will deliver new toll-free connections from the Sydney motorway network to the International and Domestic Terminals.
+
+
+Our project controls team provide the expertise, frameworks, methodologies, systems, reporting and assurance to enable the delivery of quality infrastructure projects on time and within budget. A significant proportion of this work relates to the development and review of project cost, schedule and risk and the ongoing implementation of best practise and continuous improvement.
+
+
+The opportunity
+
+
+Reporting to the Senior Manager Project Controls and Senior Risk Manager, the primary purpose of the role is to lead the administration of the project risk management function. The objective is to support the project team to proactively identify, document and mitigate risks to the successful delivery of the project. Materially this involves:
+
+
+Ensuring all elements of the project risk management process are fit-for-purpose and effectively implemented on project.
+Working with the project staff and leadership team to ensure that the project risk registers are comprehensive, up to date and accurate.
+Provide strategic and operational guidance to the project team and leadership to identify, manage and minimise actual and potential risk exposures.
+Prepare monthly reporting on the project risk and contingency position.
+Facilitate project risk reviews and workshops to engage with subject matter experts from various disciplines.
+Present on the project risk position and management procedures at internal and external (INSW) audits/reviews.
+Promote a proactive risk-aware culture across the project.
+Support personnel in the use of the project Risk Management System (ARM).
+Run Quarterly Quantitative Risk Analysis including building Monti Carlo models to assess contingency adequacy.
+Follow and demonstrate the TfNSW 5 Ways of Leading, showing collaborative behaviours to achieve the greater good for the community, celebrate our diverse workforce, create an environment where people can create and thrive, and support our people’s wellbeing.
+
+
+Essential Criteria:
+Tertiary qualification in a relevant discipline such as engineering or project management or demonstrated equivalent.
+Minimum of 5 years relevant risk management experience on major infrastructure projects and/or other relevant industries.
+Good understanding of TfNSW risk management processes, systems and procedures and application thereof.
+Excellent communication, relationship management and collaboration skills to ensure successful engagement with project team members.
+Advanced skills in Excel, Powerpoint, Word and pulling together reports and presentations.
+
+
+Desirable Criteria:
+Experience in running monthly risk workshops.
+Experience with QRA modelling.
+Experience with Active Risk Manager and @Risk software platforms or similar software.
+Experience in training project staff on risk systems and processes.
+Project contingency management experience,
+Basic project cost estimating capability.
+Sufficient infrastructure project delivery experience (e.g. road, rail) to enable informed inquiry relating to material project risks and control measures.
+Familiarity understanding of other project discipline functions outside of risk (cost, schedule, commercial/contract related matters).
+
+
+Please click here for a copy of the role description.
+
+
+About you
+
+
+You will be comfortable working with a degree of autonomy as part of a broader team, building relationships across Project Performance. It is essential you have demonstrated experience in analysis, reporting and consolidation of project information within a complex infrastructure/transport environment with a sound working knowledge and skills in using analytical tools and systems (MS Suite, Power BI and ideally some coding experience).
+
+
+Salary and Benefits
+
+
+This is a Transport Grade UUS 11 role ($145,203 – 154,943 plus Super)
+
+
+For more information on Employee Benefits at TfNSW please click here.
+
+
+Interested?
+
+
+Joining Transport for NSW, you’ll have access to a range of unique government benefits in a flexible work environment like no other. If you’re ready to step into this meaningful and rewarding role, we want to hear from you!
+
+
+How to apply
+
+
+To apply for this position, please submit a resume and answer all questions within the online application process.
+
+
+Please check the internal role eligibility requirements or policy for your agency before applying for internally advertised roles.
+
+
+Applications close: 11.59pm, Sunday 29th May 2022
+
+
+We are the community we serve
+
+We are committed to being an inclusive, diverse and flexible workplace where differences are valued. We welcome people of all backgrounds, experience and abilities.
+
+We enable our people to work in ways that work for them. Working virtually and from different locations including regional locations, staggering work hours and job sharing are just some of the ways our people can work flexibly.
+
+Please contact the Talent Specialist below if you require any adjustments to be made to how you interact with us throughout the recruitment process or would like to discuss flexible work options.
+
+For any enquiries, please email Simon Reed at SIMON.REED@TRANSPORT.NSW.GOV.AU.
+
+We’re certified as a Family Inclusive Workplace
+
+Our flexible work practices and policies for parental leave, employee and family wellbeing and family care enable us to provide genuine support for our people to thrive at work and at home.
+
+Working with Transport gives you access to a range of benefits that help you balance work with the things that matter to you. Look through our Employee Benefits Guide to learn more.
+
+Apply today to register your interest!
+
+Find out more about Transport for NSW at https://www.transport.nsw.gov.au/about-us.
+
+Take a look at our application tips video series for plenty of great information on navigating and acing the application and recruitment process here at Transport.
+
+Our COVIDSafe Measures Policy
+
+All Transport for NSW workers are required to have:
+appropriate evidence of being fully vaccinated with a TGA approved COVID-19 vaccine; or
+an approved medical contraindication.
+You will be required to show proof of your COVID-19 vaccination status or apply for a medical exemption prior to securing this role.
+
+
+
+Job Segment: Risk Management, Engineer, Relationship Manager, Procurement, Botany, Finance, Engineering, Customer Service, Operations, Science"
+39,"Job Purpose and Impact
+
+The Trade Product Control Analyst will be responsible for financial risk management in commodity, foreign exchange risks and trading profit and loss for the Australia business. In this role, you will partner closely with key stakeholders to deliver daily trading risk reporting, perform trading PnL, provide analysis and insights on trades and FX reports.
+Offices are located in our Southbank office and we offer a flexible hybrid working model. Key Accountabilities
+
+Complete daily trading PnL reporting and reconciliation in collaboration with key stakeholders, and ensure any significant differences are resolved and communicated appropriately.
+Monitor commodity and foreign exchange exposure and complete all risk reporting within deadlines and compare against limits, escalate breaches of limits and get resolution of breach in collaboration with business stakeholders. Guide CBS team on report preparation and variance explanation.
+Manage reports and reconcile trading profit and loss by line of impact with key stakeholders.
+Support compliance operations and monitor points of control.
+Collaborate with peers to implement process simplification and enhance process standardization, optimize reporting, and deliver automation and transformation processes.
+Guide CBS team on derivatives operations and compliance report
+Support Cargill global/regional projects Qualifications / Experience
+
+Minimum of three -four years within commodity industry
+Experience in finance operations with a knowledge of risk management and related processes
+Proven business partnering skills with ability to influence decisions
+Provide financial modelling input into business cases, costs, and schedules to support growth in the business
+Contribute to the preparation of various data and analytics reports
+Exposure to commodity trading, trading reports is preferred
+Accounting background is a plus
+This is a 14 Month Maternity Cover contract based in Melbourne and will give you an opportunity to work with a global organisation, apply today to join the team.
+Cargill is an Equal Opportunity Employer. All applications are treated with strict confidentiality"
+40,"· Tech BA role in the Finance, Credit Management, Treasury and Risk space.
+· Main focus for this requirement is working is Integral+ but that does interface to multiple other systems that will be in scope. SAP knowledge an advantage.
+Required Skill:
+· Seeking for a Data migration specialist having a working experience of ERP data migration in the areas of procurement, Project, Finance and Fixed Assets.
+· Good understanding on ERP process such as Procure to Pay, Order to Cash, Acquire to Retire, Record to Report (GL) is desirable.
+· SAP knowledge and experience is desirable.
+· Accounting and Finance knowledge is desirable .
+· Collaboration, co-ordination, documentation (Key Design Decisions) and communication is must.
+· Agile ways of working Jira, Confluence.
+· Detailed data analysis and analytics .
+· User Story/Risk/Issue/Assumption/Caveat documentation and Dependency management .
+· Process mapping/decision tree logic.
+Job Type: Full-time
+Salary: $105,800.00 – $115,800.00 per year
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Sydney NSW: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Information & Communication Technology Occupations: 1 year (Preferred)
+Work Authorisation:
+Australia (Preferred)"
+41,"Data Analytics Lead
+Are you as passionate about making a difference as you are working with data to solve important organisational problems?
+Do you have a talent for working with key internal stakeholders to understand their requirements and transform them into powerful BI dashboards?
+Does the thought of working with a brand new, blank canvas Azure Data Factory platform float your boat?
+Are you a self-starter who is happy to roll your sleeves up and surround yourself in data?
+The Role
+As the Data Analytics lead, reporting directly to the Executive Manager of Organisational Impact, you will be passionate about data and driven by the opportunity to work alongside internal stakeholders across the Y to help them solve the organisation’s most fickle problems through good data analytics.
+A new role, the Data Analytics Lead joins the organisation at a critical time – at a point where our strategy sees us pursue deep impact for children and young people across the state, which demands access to deep impact data.
+You’ll join a motivated and newly focused team under an organisational impact portfolio that is 100% focused on ensuring the Y is poised to demonstrate impact.â€¯ Acting as the Y’s Data Analytics Champion, you will work with Executives and Senior Leaders and spend your days building on a foundational data analytics model. You’ll be part of a small, but ‘crack’ team focused on data, impact, member experience and improvement.
+Skills and Experience
+The successful applicant will hold a tertiary qualification in a relevant field and will have considerable experience in Business analysis, Data Analysis and Business Intelligence reporting.
+You will demonstrate:
+The ability to be flexible and influential with internal stakeholders, with a strong customer service orientation.
+Strong problem solving, analytical and time management skills
+The ability to work collaboratively in diverse teams, including internal and external stakeholders.
+Experience in working directly with business stakeholders to interpret and document key requirements
+proficiency with contemporary data platform technologies; data lakes and orchestration platforms such as Azure Data Factory.
+Experience with and exposure to reporting suite applications such as Power BI
+How to apply
+For the full job description and selection criteria visit our website www.ymcawa.org.au and click on the “Get Involved” tab. Please submit a cover letter and CV with your application. Should you require any further information please call Grant Yonge on (08) 9473 8444.
+Closing date: Tuesday 14th June 2022.
+We may start interviews before the closing date
+You must have the right to live and work in this location to apply for this job.
+The Y WA is committed to providing a safe workplace and will comply with all mandatory vaccination directions. Where a position is covered by a relevant direction you will be required to provide an approved form of evidence of vaccination or exemption prior to commencing employment.
+At the Y, we are committed to empowering all Children and Young People to feel safe and be safe, at the Y, in their families and in their communities. As such, we ensure that all of our candidates are appropriately screened (including police checks) to make sure that the right people are in the right roles.
+To learn more about our screening processes, click here to view our Safeguarding Children and
+Young People Policy: https://ymca.org.au/about-us/safeguarding-children-young-people/safeguardingresources/"
+42,"Location of work -Adelaide Metropolitan
+Length of contract– 12-months Contract
+Overview
+Business Analyst to work within a Program delivering enhancements to the website, Report application and other projects within the program
+Business Analyst will work as part of a multi-disciplinary capability delivery team using the agile methodology and may work on several projects concurrently.
+Key responsibilities include
+Working with users to formulate and document business requirements
+Identifying, investigating and analyzing business processes, procedures and work practices
+Using project management methodologies, principles and techniques to develop project plans and to cost, resource and manage projects
+Taking responsibility for deploying functional solutions, such as creating, adopting and implementing system test plans, which ensure acceptable quality and integrity of the system
+Using data and process modelling techniques to create clear system specifications for the design and development of system software
+Understand customer’s business and work with the project’s stakeholders in understanding requirements
+Testing & change management of the implementation
+Ability to collaborate with stakeholders to resolve issues, solve problems and ensure effective and timely implementation of projects
+Possess business and technical knowledge to review workflow, documentation and
+User surveys and analyze data to identify a solution to a business issue
+Proven ability to function both independently and as part of a team
+Work experience: At least 1 year of relevant work experience. Fresh graduates having deep knowledge of the subjects could be considered for this role.
+Availability: Monday to Friday – Full time 40 hours
+Essential Knowledge:
+Strong knowledge of CRM, strong knowledge of Web Development technologies, String knowledge of MS Office suite & Visio, some experience in SAP
+Very strong knowledgeable of Security and Web Development technologies, their configuration options, authentication, authorisation and access protocols
+Skills:
+Strong communicator – excellent verbal and written communication skills including presentation to end users.
+Ability to multitask and work to timelines
+Excellent analytical and problem-solving skills
+Excellent analytical and problem-solving skills
+Able to work independently with the business SMEs.
+Strong analytical and problem-solving skills with a high attention to detail.
+This is a long term contract offering an excellent pay rate to the right candidate and the chance to work on an important project
+Should you have the required experience and are looking for a challenging role Email your resume to career@inkitsolutions.com.au
+Please note only shortlisted candidates will be contacted for the role.
+INK IT Solutions is a global IT consulting company, dedicated towards maximizing our client’s performance and help them achieve their vision. The company started in Australia in 2013 and now employs more than 150 people in 4 countries."
+43,"In this challenging and varied role, you will utilise your expertise as a Business Analyst to help us deliver on a number of process and system transformation initiatives related to finance and tax reporting.
+This is a unique opportunity for you to be part of various projects within our Tax function to design and implement market leading tax reporting capabilities that will enable the transformation of our Global direct, indirect and transfer pricing function. This tax transformation project is global in nature but being run centrally from Sydney.
+What impact will you have?
+As an experienced Business Analyst, you will work to document and process map data and critical controls across a wide range of processes and source systems. Further, you will assess and adopt technology solutions to streamline and automate tax processes, including requirements documentation and analysis of solutions.
+Day to day, you will be responsible for:
+Working closely with a diverse range of stakeholders to capture and analyse business requirements
+Leading and participating in gathering information, evidence, facilitating workshops as part of the project deliverable – including gap analysis of current v future state,
+Producing relevant documentation including business process maps, creating project artefacts and governance documents, training materials
+Reporting on success measures and embedding of activities
+Assisting with providing project updates for working group and steering committees
+What skills will you use?
+Key to your success will be your prior Business Analyst experience, likely 5 - 7 years’ with a focus on process re-design. Whilst prior experience working on projects within a finance or tax function will be highly regarded, it is not required. If you possess strong Business Analyst skills with excellent process mapping skills and ability to work well under pressure and problem solve issues, we would like to hear from you!
+If you have any questions on this opportunity, please reach out to Maddy Wilson at maddy.wilson@macquarie.com
+About the Financial Management Group
+The Financial Management Group provides financial, tax and treasury services to all areas of Macquarie. The group is focused on providing strategic analysis and advice to Macquarie's businesses and senior management, managing Macquarie's funding, liquidity and capital position, ensuring Macquarie continues to meet regulatory and compliance obligations and managing Macquarie's corporate affairs.
+Our commitment to Diversity and Inclusion
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+
+
+About Macquarie
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 17,000+ employees and offices in 33 markets around the world, we’re a truly global organisation.
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+
+Job no: FMG-960823
+Work type: Permanent - Full time, Agency Worker
+Location: Sydney
+Category: Mid-level, Accounting & Finance, Projects, Improvements & Change
+Group: Financial Management Group
+Division: Finance
+Recruiter: Laura Davidson
+Opening Date: 07/2/2022"
+44,"Support and solve complex data-dependent models within the Asset Allocation business
+Join one of the country’s premier private wealth managers
+Utilise your experience in quantitative analysis in this exciting new role
+We’re JBWere:
+JBWere is a leading private wealth management firm operating across Australia and New Zealand. For 180 years we have been delivering sophisticated investment and wealth management solutions to a diverse client base – we strive every day to fulfil our core purpose: to give our clients the confidence to do what matters.
+At JBWere, we believe success comes from our people. We're committed to supporting your talent and skills through your career, as you help us build a culture that affects change for our customers - and for the community too.
+About this opportunity:
+As our new Consultant, Quantitative Analyst, you will provide support to the delivery of high quality, multi-asset investment strategy and advice within the Investment Strategy Group. You will perform primary quantitative investment research across all asset classes at JBWere. Additionally, you will maintain our high quality of research code and databases which support the models you will be building. We have a highly engaged and supportive team who will mentor and enhance your skills. If you are looking for a career with clear career progression, this is an opportunity not to be missed!
+Day to day you will include, but is not limited to:
+Provide support on multiple projects across all asset classes that have deep impact across the organisation
+Investment process - development and adherence to relevant investment process
+Be responsible for activities as set out by Head of Asset Allocation
+Be supported by senior members of the team, including (but not limited to), peer review activities and coaching
+Take a closer look at the role purpose statement to learn more about the role.
+What you bring:
+You are an experienced data guru with a passion to find the best insights through financial data. You enjoy sharing your insights with stakeholders and presenting to a wide audience. Some key skills we are looking for include, but not limited to:
+Excellent programmers (preferably in Python – experience with other languages would be beneficial but Python is our language of choice)
+Willing to take initiative and be a collaborative team player
+Motivated with an interest in understanding markets / portfolio management with relevant university qualifications – a background in computer science / programming / econometrics would be highly desirable
+NAB, invested in you
+At NAB, we believe success comes from our people. We're committed to supporting your talent and skills through your career, as you help us build a culture that affects change for our customers - and for the community too. If you think this role is the right fit for you, we encourage you to apply.
+To be eligible to apply, you must have Australian or New Zealand citizenship or permanent residency status.
+Please note candidate screening and interviews may be conducted prior to the closing date of the job advert.
+We value and embrace diversity of thought, style and working arrangements to ensure our workforce is representative of the communities that we serve and that our thinking, solutions, and products are the best they can be."
+45,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+EY DnA is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors. Join our Engineering team as a Senior Data Modeler and provide the specialist skills needed to drive the maturity of our modelling capability, uplift standards within our scrum teams through hands on involvement and performing a DevOps role on AWS and on-prem applications.
+
+To be successful in this role, you will have:
+Strong experience in data modelling of Data Warehouses - including dimensional modelling and 3NF modelling
+Practical experience in design and deployment of physical data models optimized for target storage technology (databases, analytical appliances, general purpose storage, cloud databases, etc.)
+Understanding of broader Data Architecture topics such data governance, data cataloguing, data quality and master data management
+Leading scrum team members to produce demonstrably better modelled ETL
+Strong SQL experience
+Willingness to work in depth and with “hands on” with engineers ensuring that real world implementation is effective and fit for business purpose
+Experience working in Agile environment
+
+Desirable Skills And Experience
+Prior experience working with AWS
+Practical exposure to Data Vault 2.0 methodology
+BigData querying tools like Hive, Spark, Presto
+“Nice to have” - Strong Big Data / Hadoop experience (i.e. Hive, Spark, Airflow)
+Talend Big Data experience
+
+What we offer
+
+A tech career @ EY means working with 40,000 fellow technologists who are creating cutting edge applications in blockchain, AI, cloud, analytics, robotics and cyber, harnessing tech to power the human enterprise and build a more equitable, sustainable world. We offer world class training and a free Tech MBA to all our people.
+
+Globally at EY, we are committed to offer:
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+The exceptional EY experience. It’s yours to build.
+
+The preferred applicant will be subject to employment screening by EY or by their external third party provider. Regarding this role, the minimum salary is $90,000 including 10% superannuation.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+46,"At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+EY DnA is the data and advanced analytics capability within EY Asia-Pacific, with over 500 specialist employees working across multiple industry sectors.
+
+As a Business/Data Analyst, you will support our clients in defining and implementing a data journey aligned with their strategic objectives. Some of your responsibilities will include:
+
+Be a part of one of our successful delivery teams and get an opportunity to move into a more consultative role working across various data environments and helping our clients solve their business problems with data.
+Be responsible for creating requirement specifications, analysing requirements, creating visual models, facilitating elicitation sessions, and digging around in the data when needed.
+Designing and building reports – capture data requirements for the client and team.
+Creating requirements specifications, analysing requirements, creating visual models, facilitating workshop sessions, and using the necessary business analyst tools.
+
+To qualify for the role, you must have
+
+Worked in a similar Business/Data Analyst position for at least 3-5 years with a focus on data management, data governance and data strategy
+Ability to understand and identify business rules and processes
+Conducted process mapping and requirements gathering workshops with non-technical stakeholders
+Working with SQL databases and database querying languages.
+Have knowledge and experience of all phases of software development including requirements analysis, design, coding, testing, defect management.
+Due to the nature of the client base, you MUST BE an Australian Citizen
+
+Ideally, you’ll also have
+
+Experience in engaging with both technical and non-technical stakeholders
+Strong consulting experience and background, including engaging directly with clients
+Experience in a delivery role on Business Intelligence, Data Warehousing, Big Data or analytics projects
+Ability to problem-solve and think critically
+Technical reconciliation and reporting skills
+Some development experience would be advantageous but not essential
+
+What we offer
+
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Continuous learning: personalised career development including coaching, experiences and formal learning so you’ll develop the mindset and skills you’ll need to thrive in the future.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+At EY, you’ll be rewarded and recognised based on your performance and our comprehensive benefits package can be tailored to your individual needs.
+We hold a collective commitment to foster an environment where all differences are valued and respected, practices are equitable, and everyone experiences a sense of belonging. If you require any adjustments to the recruitment process in order to equitably participate, we encourage you to advise us at the time of application via contactrecruitment@au.ey.com or phone +61 3 8650 7788 (option 4).
+
+We understand the importance of social distancing at this time so our recruitment and onboarding process may be managed virtually so we can continue to prioritise the safety and wellbeing of EY people, clients, guests and the broader public.
+
+The exceptional EY experience. It’s yours to build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+#LI-EYAustralia"
+47,"Senior Data Analyst
+
+About us
+
+TrafficGuard is the world’s first truly omni-channel, full-funnel fraud and invalid traffic solution. Publicly listed on the ASX, TrafficGuard operates in one of the largest addressable markets in digital advertising and provides solutions for one of the largest problems yet to be solved. We provide the technology and data to enable advertisers to maximise efficiency and growth.
+
+We have scaled our platform into almost 4,000 advertisers globally (including multiple Unicorns) to enable them to verify their advertising in real-time and find and remove invalid traffic. Along the way, TrafficGuard has picked up numerous awards for both its anti-fraud and optimisation capabilities and has been recognised as one of the most innovative companies in Australia.
+
+We are continuing to scale up and are looking to enhance our team to support our growth strategy. TrafficGuard has Unicorn potential. Can you be part of the team that gets us there?
+
+About the role
+
+We have an exciting opportunity for a Senior Data Analyst to join our team. You will be part of a growing and innovative, award-winning company transforming the online advertising ecosystem.
+
+We are seeking applicants in the regions of SEA, EMEA & LATAM to join TrafficGuard on a full-time remote working arrangement.
+
+This Senior Data Analyst will work as part of our Customer Success team alongside Data Analysts in the APAC region. Our Customer Success team are custodians of the client relationship and rely heavily on the Senior Data Analyst role in supporting customers in their understanding of their advertising performance.
+
+The key responsibilities of this role will include:
+Working as a part of a high performing customer success team on a day-to-day basis.
+Build relationships with customers and support them in their understanding of their advertising performance by collecting and analysing data and surfacing useful insights.
+Triage customer and internal inquiries by acting as the first line of analysis.
+Working alongside a multi-award-winning product team defining new capabilities and product features.
+Present a clear narrative to the key stakeholders and build automated routines and BI resources for continued consumption of the insights.
+Provide visibility of critical customer success metrics and insight into customer expansion opportunities
+Lead research for case studies and white papers on ad fraud and invalid traffic patterns.
+Providing thought leadership in both using data to solve business problems and in arriving at innovative statistical solutions.
+
+
+What’s on offer
+
+TrafficGuard is an innovative and progressive company with huge potential. We have a dynamic and energetic employee base, giving you access to some of the best minds in the industry.
+
+Working with us gives you access to heaps of benefits including:
+Fully flexible working options.
+Career growth.
+Yearly professional development allowance.
+Yearly wellness allowance.
+Great company culture.
+Regular social activities.
+Competitive salaries.
+The opportunity to work with innovative and dynamic teams.
+The opportunity to be part of our growth and come on this journey with us!
+
+About you
+
+The ideal candidate will be a curious, consultative, data detective with proficiency in ad analytics and a relentless need to “figure-it-out”.
+
+The successful candidate will have:
+5+ years experience in a similar role.
+Consulting or customer-facing experience.
+Media agency experience is highly regarded.
+Advanced SQL skills - both in query development and performance tuning.
+Business analysis skills.
+Expert knowledge with BI applications such as Looker, Tableau, PowerBI, Domo, or Microstrategy.
+Experience with Google Ads
+Demonstrated ability of in-depth campaign and audience data analysis to identify trends, insights and benchmark performance
+Ability to communicate effectively with both technical and non-technical stakeholders.
+Ability to drive and deliver projects and meet deadlines.
+A willingness to learn and a strong drive to progress.
+
+
+How to apply
+
+To apply, please send through your CV and a cover letter outlining your experience.
+
+For a confidential discussion, please contact Kiren Singh, HR Manager, on Kiren.singh@adveritas.com.au
+
+We are open to out of the box candidates, who may not have all the experience we are looking for, but who are driven and capable. If this sounds like you, we would love to hear from you!"
+48,"Remuneration range $104,868 to $115,960 pa
+Full-time continuing appointment
+Toowoomba, Ipswich or Springfield campus
+People Portfolio
+The Senior Workforce Analyst is a unique opportunity to contribute to the future of USQ's workforce design and development through data analytics, modelling, forecasting and reporting across multiple people data points to support the University’s workforce planning. This role is integral to identifying and interpreting workforce trends and guiding the People Portfolio team in inspiring change and transformation.
+
+You will have a proven ability to identify data sources, develop reporting platforms with key data insights and metrics, and provide evidence-based intelligence on workforce trends. In addition to your data analytics and modelling skills, you will be able to form positive working relationships with key partners to identify and support their data needs.
+
+What you'll do
+
+Identify, source and analyse internal and external workforce data and trends from multiple sources to provide the necessary data insights to interpret and turn workforce trends into meaningful strategies and actions for the University.
+
+Some of your key activities will include:
+
+
+Collaborating with key stakeholders across the organisation to identify and bring together workforce and other data from across the University to deliver connected forecasting, insights and regular reporting across the organisation.
+Developing and maintaining key workforce performance indicators, metrics and dashboards.
+Defining and implementing workforce reports and other platforms that are meaningful and support strategic planning through the inclusion of gap and trend analysis and scenario planning, and
+Contributing advice and insights into key workforce planning activities based on intelligence gathered from workforce data
+
+
+
+What will help you succeed?
+
+
+Your experience and depth as a HR professional with strong strategic and analytic skills will be essential to delivering outcomes and making vital connections, forecasts and projections to inform impactful workforce strategies.
+
+You will also have:
+
+
+Relevant tertiary qualifications in an area such as Human Resources, Workforce/Data Analytics and Intelligence or similar, and significant experience in a human resources, workforce planning, reporting or analytics role.
+Proven experience in contemporary workforce analytics practices, including experience identifying, analysing, interpreting and communicating data from multiple sources; with data modelling, data visualisation, forecasting and business intelligence skills.
+High-level analytical, problem-solving and systems thinking skills, with the ability to interrogate and use data to look beyond the obvious to identify the underlying insights that are essential to effective decision making, and develop recommendations based on an understanding of critical issues and drivers, and
+Ability to undertake sophisticated report design and preparation. Skills in statistical analytics tools and software, and BI platforms would be advantageous.
+
+
+
+Building on its strengths as Australia’s leading regional University, USQ’s vision is to be renowned for innovation and excellence in education, student experience, research and engagement. Guided by our core values of respect, integrity and excellence, the University’s Strategic Plan 2021 - 2025 outlines our commitment to creating and sharing knowledge, transforming lives and solving the problems that matter to our world.
+
+The University offers a range of different ways of working and connecting across our physical and virtual spaces to meet the needs of our students, partners and community. We value diversity and strive to foster an inclusive environment that is underpinned by our core values and champions, embraces and respects differences. We support and encourage applications from all diversity groups.
+
+With an increasingly diverse workforce, we understand that careers may be placed on hold or limited throughout many life circumstances. We recognise the importance of considering achievement relative to opportunity and encourage you to outline factors such as career breaks, gender, family, or other factors which may have resulted in a limited career progression.
+
+For a confidential discussion about the role and USQ, please contact Trudi Davidson, Director, (People Strategy) on telephone +61 7 4631 2981 or email Trudi.Davidson@usq.edu.au .
+
+Reference Number: 0102_04/22
+
+Term: Full-time continuing appointment (36hrs/wk)
+
+Salary: Total remuneration range $104,868 to $115,960 pa (includes salary range of $88,609 to $97,980 pa, employer superannuation contributions of 17% of salary and annual leave loading)
+
+Closes: Sunday, 22 May 2022
+
+At USQ, we are united by our core values of Respect, Integrity and Excellence, which guide our daily actions and decision making.
+
+
+If you think you can bring this role to life, we invite you to submit your resume/CV along with a two-page statement outlining your motivation and suitability for the role."
+49,"Role Type : Full Time Ongoing
+Remuneration : min. $100,571.00 + superannuation (dependent on qualification & experience)
+Bendigo TAFE and Kangan Institute are the TAFE trading brands of Bendigo Kangan Institute. We are one of Victoria's largest TAFE providers, with over 40,000 enrolled students per annum. We offer vocational training to students from all over the northern metro corridor as well as Loddon Campaspe regions. We pride ourselves on the quality of training we provide by having industry expert teachers who impart their wealth of experience to the workforce of the future. We believe that in everything we do, we give people the opportunity to be the best they can be. We are currently seeking an experienced Reporting Analyst to join our Operations team at Cremorne.
+The Role:
+Bendigo Kangan Institute is currently undergoing a significant transformation focused on improving the Student Journey and increasing Financial Sustainability for the organisation. Business Intelligence and Enterprise Reporting is a critical capability to enable this transformation journey to provide our business with insights to support decision making and continuous improvement in aid of our strategic objectives.
+This position is responsible for ensuring the provision of performance reports and dashboards to the business, providing a critical role in driving decision making, supporting compliance, and other government reporting requirements.
+It also focuses on developing an understanding of existing reporting produced across various business units, and looks for opportunities to improve, centralise or automate those reporting processes.
+Key Responsibilities:
+Design and develop templates and reports that generate insightful analysis for various domains improving business decision making and enabling continuous improvements
+Utilise both traditional reporting tools and methods for periodic reporting, as well as Business Intelligence dashboards where relevant for a more frequent or more interactive basis
+Design and develop business reports to provide information in support of business decision making and regulatory or compliance requirements
+Interpret data, analyse results using reporting techniques and provide ongoing reports
+Contribute to improvements in report design by providing suggestions to streamline reporting processes or automate elements of report creation
+Contribute to the development of Business Intelligence by bringing knowledge of existing reporting and suggesting opportunities where BI dashboards may be better suited
+Visualise data effectively to deliver information and leverage insights to support business activities and decisions
+Contribute to a culture of data led insights
+Demonstrated experience participating in the delivery of reporting, data driven or analytics projects and the creation of business reports, development of reporting tools and analytics
+Demonstrated experience with Business Intelligence and Reporting projects
+Experience in business intelligence (Power BI), business analysis or data analytics
+Qualification:
+Relevant Degree or post graduate qualification and experience and/or combination of extensive experience, education and training
+Familiarity with Education sector, in particular Vocational Education and Training desirable
+Successful applicants will also have to provide;
+A current Working with Children Check
+A current Federal Police Check
+Proof of COVID Vaccination
+Certified Right to Work document - Passport/Visa/Citizenship or Birth Certificate
+Benefits:
+Counselling support (EAP) and Health & Wellbeing initiatives throughout the year
+Flexible work options
+Free onsite parking for most campuses
+Professional development programs and many more....
+If this sounds like the role for you. Please click ' Apply for this job / Apply now ', we would love to hear from you.
+
+
+For further information regarding this outstanding opportunity, please contact Azam Sadeghpour, Head of Performance Management and Reporting on a.sadeghpour@kangan.edu.au
+NOTE: BKI reserves the right to withdraw this advertised position at any stage.
+Applications from candidates with valid working rights will only be considered. We are a child safe and equal opportunity employer and therefore the successful candidate will be required to hold a current working with children check clearance. We value diversity in our workforce and encourage people from all backgrounds, abilities and identities to apply for roles within our organisation. If you require specific support to apply for this position, please contact peopleoperations@kangan.edu.au and we will work with you to identify the best way to assist."
